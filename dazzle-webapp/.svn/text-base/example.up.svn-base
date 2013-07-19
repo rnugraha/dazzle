@@ -1,0 +1,158 @@
+ID   EGR1_MOUSE              Reviewed;         533 AA.
+AC   P08046; Q61777;
+DT   01-AUG-1988, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1990, sequence version 2.
+DT   20-MAR-2007, entry version 78.
+DE   Early growth response protein 1 (EGR-1) (Krox-24 protein)
+DE   (Transcription factor Zif268) (Nerve growth factor-induced protein A)
+DE   (NGFI-A).
+GN   Name=Egr1; Synonyms=Egr-1, Krox-24;
+OS   Mus musculus (Mouse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Mus.
+OX   NCBI_TaxID=10090;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   MEDLINE=88165055; PubMed=3127059; DOI=10.1016/0092-8674(88)90485-0;
+RA   Sukhatme V.P., Cao X., Chang L.C., Tsai-Morris C.-H., Stamenkovich D.,
+RA   Ferreira P.C.P., Cohen D.R., Edwards S.A., Shows T.B., Curran T.,
+RA   le Beau M.M., Adamson E.D.;
+RT   "A zinc finger-encoding gene coregulated with c-fos during growth and
+RT   differentiation, and after cellular depolarization.";
+RL   Cell 53:37-43(1988).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   MEDLINE=89042085; PubMed=3141919;
+RA   Christy B.A., Lau L.F., Nathans D.;
+RT   "A gene activated in mouse 3T3 cells by serum growth factors encodes a
+RT   protein with 'zinc finger' sequences.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:7857-7861(1988).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   MEDLINE=90060781; PubMed=2511075; DOI=10.1016/0378-1119(89)90296-5;
+RA   Janssen-Timmen U., Lemaire P., Mattei M.-G., Revelant O., Charnay P.;
+RT   "Structure, chromosome mapping and regulation of the mouse zinc-finger
+RT   gene Krox-24; evidence for a common regulatory pathway for immediate-
+RT   early serum-response genes.";
+RL   Gene 80:325-336(1989).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 50-533.
+RX   MEDLINE=88263014; PubMed=3133658;
+RA   Lemaire P., Revelant O., Bravo R., Charnay P.;
+RT   "Two mouse genes encoding potential transcription factors with
+RT   identical DNA-binding domains are activated by growth factors in
+RT   cultured cells.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 85:4691-4695(1988).
+RN   [5]
+RP   MUTAGENESIS OF ZINC FINGERS.
+RX   MEDLINE=92156104; PubMed=1740423;
+RA   Wilson T.E., Day M.L., Pexton T., Padgett K.A., Johnston M.,
+RA   Milbrandt J.;
+RT   "In vivo mutational analysis of the NGFI-A zinc fingers.";
+RL   J. Biol. Chem. 267:3718-3724(1992).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 333-421.
+RX   MEDLINE=91227904; PubMed=2028256;
+RA   Pavletich N.P., Pabo C.O.;
+RT   "Zinc finger-DNA recognition: crystal structure of a Zif268-DNA
+RT   complex at 2.1 A.";
+RL   Science 252:809-817(1991).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 333-421 WITH VARIATIONS.
+RX   MEDLINE=98230744; PubMed=9562555; DOI=10.1016/S0969-2126(98)00047-1;
+RA   Elrod-Erickson M., Benson T.E., Pabo C.O.;
+RT   "High-resolution structures of variant Zif268-DNA complexes:
+RT   implications for understanding zinc finger-DNA recognition.";
+RL   Structure 6:451-464(1998).
+CC   -!- FUNCTION: Transcriptional regulator. Recognizes and binds to the
+CC       DNA sequence 5'-CGCCCCCGC-3'(EGR-site). Activates the
+CC       transcription of target genes whose products are required for
+CC       mitogenesis and differentiation.
+CC   -!- SUBCELLULAR LOCATION: Nucleus.
+CC   -!- INDUCTION: By growth factors.
+CC   -!- SIMILARITY: Belongs to the EGR C2H2-type zinc-finger protein
+CC       family.
+CC   -!- SIMILARITY: Contains 3 C2H2-type zinc fingers.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M20157; AAA37544.1; -; mRNA.
+DR   EMBL; M22326; AAA40416.1; -; mRNA.
+DR   EMBL; M28845; AAB00468.1; -; Genomic_DNA.
+DR   EMBL; M28844; AAB00468.1; JOINED; Genomic_DNA.
+DR   EMBL; M19643; AAA39382.1; -; mRNA.
+DR   PIR; JS0304; JS0304.
+DR   UniGene; Mm.181959; -.
+DR   PDB; 1A1F; X-ray; A=333-421.
+DR   PDB; 1A1G; X-ray; A=333-421.
+DR   PDB; 1A1H; X-ray; A=333-421.
+DR   PDB; 1A1I; X-ray; A=333-421.
+DR   PDB; 1A1J; X-ray; A=333-421.
+DR   PDB; 1A1K; X-ray; A=333-421.
+DR   PDB; 1A1L; X-ray; A=333-421.
+DR   PDB; 1AAY; X-ray; A=333-421.
+DR   PDB; 1F2I; X-ray; G/H/I/J/K/L=334-389.
+DR   PDB; 1G2D; X-ray; C/F=333-421.
+DR   PDB; 1G2F; X-ray; C/F=333-421.
+DR   PDB; 1JK1; X-ray; A=333-421.
+DR   PDB; 1JK2; X-ray; A=333-421.
+DR   PDB; 1LLM; X-ray; C/D=-.
+DR   PDB; 1P47; X-ray; A/B=333-419.
+DR   PDB; 1ZAA; X-ray; C=332-418.
+DR   TRANSFAC; T00244; -.
+DR   TRANSFAC; T00455; -.
+DR   Ensembl; ENSMUSG00000038418; Mus musculus.
+DR   KEGG; mmu:13653; -.
+DR   MGI; MGI:95295; Egr1.
+DR   LinkHub; P08046; -.
+DR   ArrayExpress; P08046; -.
+DR   GermOnline; ENSMUSG00000038418; Mus musculus.
+DR   GO; GO:0005634; C:nucleus; IMP:MGI.
+DR   GO; GO:0003700; F:transcription factor activity; IMP:MGI.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-dependent; IMP:MGI.
+DR   GO; GO:0030217; P:T cell differentiation; IMP:MGI.
+DR   InterPro; IPR007087; Znf_C2H2.
+DR   Pfam; PF00096; zf-C2H2; 3.
+DR   ProDom; PD000003; Znf_C2H2; 2.
+DR   SMART; SM00355; ZnF_C2H2; 3.
+DR   PROSITE; PS00028; ZINC_FINGER_C2H2_1; 3.
+DR   PROSITE; PS50157; ZINC_FINGER_C2H2_2; 3.
+KW   3D-structure; Activator; DNA-binding; Metal-binding; Nuclear protein;
+KW   Repeat; Transcription; Transcription regulation; Zinc; Zinc-finger.
+FT   A_SNPS      366    366       Score: 13
+FT   A_SNPS      367    367       Score: 32
+FT   A_SNPS      368    368       Score: 18
+FT   A_SNPS      369    369       Score: 39
+FT   A_SNPS      370    370       Score: 23
+FT   A_SNPS      371    371       Score: 12
+FT   A_SNPS      372    372       Score: 21
+FT   A_SNPS      373    373       Score: 22
+FT   A_SNPS      374    374       Score: 19
+FT   A_SNPS      375    375       Score: 12
+FT   A_SNPS      376    376       Score: 32
+FT   A_SNPS      377    377       Score: 28
+FT   A_SNPS      378    378       Score: 21
+FT   A_SNPS      379    379       Score: 20
+FT   A_SNPS      380    380       Score: 21
+FT   A_SNPS      381    381       Score: 12
+FT   A_SNPS      382    382       Score: 30
+FT   A_SNPS      383    383       Score: 24
+FT   A_SNPS      384    384       Score: 9
+FT   A_SNPS      385    385       Score: 38
+FT   A_SNPS      386    386       Score: 21
+FT   A_SNPS      387    387       Score: 26
+FT   A_SNPS      388    388       Score: 7
+SQ   SEQUENCE   533 AA;  56590 MW;  36E3935767CEAA0F CRC64;
+     MAAAKAEMQL MSPLQISDPF GSFPHSPTMD NYPKLEEMML LSNGAPQFLG AAGTPEGSGG
+     NSSSSTSSGG GGGGGSNSGS SAFNPQGEPS EQPYEHLTTE SFSDIALNNE KAMVETSYPS
+     QTTRLPPITY TGRFSLEPAP NSGNTLWPEP LFSLVSGLVS MTNPPTSSSS APSPAASSSS
+     SASQSPPLSC AVPSNDSSPI YSAAPTFPTP NTDIFPEPQS QAFPGSAGTA LQYPPPAYPA
+     TKGGFQVPMI PDYLFPQQQG DLSLGTPDQK PFQGLENRTQ QPSLTPLSTI KAFATQSGSQ
+     DLKALNTTYQ SQLIKPSRMR KYPNRPSKTP PHERPYACPV ESCDRRFSRS DELTRHIRIH
+     TGQKPFQCRI CMRNFSRSDH LTTHIRTHTG EKPFACDICG RKFARSDERK RHTKIHLRQK
+     DKKADKSVVA SPAASSLSSY PSPVATSYPS PATTSFPSPV PTSYSSPGSS TYPSPAHSGF
+     PSPSVATTFA SVPPAFPTQV SSFPSAGVSS SFSTSTGLSD MTATFSPRTI EIC
+//
+

@@ -1,0 +1,35 @@
+10
+
+dir
+0
+http://www.derkholm.net/svn/repos/dazzle/trunk/src/org/dazzle
+http://www.derkholm.net/svn/repos
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f893cd9c-26d5-0310-a8ce-8029f9ad61c0
+
+MyPlugin.java
+file
+
+
+
+add
+

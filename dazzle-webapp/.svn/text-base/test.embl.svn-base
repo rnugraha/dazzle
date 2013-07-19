@@ -1,0 +1,1774 @@
+ID   AF107208   standard; DNA; ROD; 2313 BP.
+XX
+AC   AF107208;
+XX
+SV   AF107208.1
+XX
+DT   30-JUL-1999 (Rel. 60, Created)
+DT   30-JUL-1999 (Rel. 60, Last updated, Version 1)
+XX
+DE   Rattus norvegicus A2a adenosine receptor gene, partial cds.
+XX
+KW   .
+XX
+OS   Rattus norvegicus (Norway rat)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae; Murinae;
+OC   Rattus.
+XX
+RN   [1]
+RP   1-2313
+RX   MEDLINE; 96213913.
+RA   Chu Y.Y., Tu K.H., Lee Y.C., Kuo Z.J., Lai H.L., Chern Y.;
+RT   "Characterization of the rat A2a adenosine receptor gene";
+RL   DNA Cell Biol. 15(4):329-337(1996).
+XX
+RN   [2]
+RP   1-2313
+RA   Chu Y.-Y., Tu K.-H., Lee Y.C., Kuo Z.-J., Lai H.-L., Chern Y.;
+RT   ;
+RL   Submitted (17-NOV-1998) to the EMBL/GenBank/DDBJ databases.
+RL   Neuroscience, Institute of Biomedical Sciences, Academia Sinica, Taipei
+RL   11529, Taiwan
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2313
+FT                   /db_xref="taxon:10116"
+FT                   /organism="Rattus norvegicus"
+FT                   /strain="Sprague-Dawley"
+FT   misc_feature    1..1997
+FT                   /note="contains promoter and 5'UTR"
+FT   mRNA            <1998..>2313
+FT                   /product="A2a adenosine receptor"
+FT   CDS             1998..>2313
+FT                   /codon_start=1
+FT                   /note="G protein-coupled receptor"
+FT                   /product="A2a adenosine receptor"
+FT                   /protein_id="AAD45869.1"
+FT                   /translation="MGSSVYITVELAIAVLAILGNVLVCWAVWINSNLQNVTNFFVVSL
+FT                   AAADIAVGVLAIPFAITISTGFCAACHGCLFFACFVLVLTQSSIFSLLAIAIDRYIAIR
+FT                   I"
+XX
+SQ   Sequence 2313 BP; 493 A; 576 C; 683 G; 561 T; 0 other;
+     gatccagccg ttctgcttgg aacatgcgtt acaaacagct agtgggcagg cagcttgtgc        60
+     agaaccggga ctcgcaagga cttagccatc ggtcggtgtc tctgtctgac cttaggagca       120
+     gcggcatgga ttaggaacag caatcctgtc agtttctgca gactttgttt tctccttcca       180
+     aaccttcagt atcggcctca tcaatgacaa aatataagct gcatctgtgt ccactctctc       240
+     tctagactga agccctggca acgtcacagg agcaaccttg aggttcattt cttttagccc       300
+     ctattttgcc tctcggccaa cctcaggtgg agaagaccct tctcccaagg cctccagttc       360
+     cactcctcct tcctctcctt gaggggagaa ggaaaaggaa agatttgtct ccatgtaggg       420
+     gtctgaaagt cagcctgcag cattttgttc ccagcaggca cacccgtggt accatagagg       480
+     tcaagcactg aagaaggtgg actaggggtg gaggtgagga tcctttagct cttgcttggg       540
+     gagtaagagg ctattgggac agtcctgctt acattaaggt tttgcaagct cagctggggc       600
+     ccactatgga gagaccaaga cttccacttt ctaggggtct cagttattcc tgtgaactga       660
+     cattgtgact ctggggtagc ctttccaaat ctgtggataa gtgctgaaat gagcccttgg       720
+     tatctggggc ccaaaggtgt tgtagtctgt gtggagaaac tgaggcctgg gaaagaaaag       780
+     gattcttgcc cacggtcctc cacggcagtc cttactgagt acctgctttt cttgagcagc       840
+     attccctaga gcattctaga gcagcctcag ctacgacctg tggggagagg ggaggtgtgg       900
+     gaggaaagtg gaggcggatc cctcagggaa gcaatcacag cgcctgctct gcctggctgt       960
+     gcagctgtta gtgggagctc tctccgagca gcgggtttgg cttggaccct gctcttgctg      1020
+     cctgtgaggg taagaatggt tacttgccac ttgcggccat aactggagga taggaccaga      1080
+     aggctcccag atctttccag aaaggaactc tggggagtgt ctgaggtgac cttaggggca      1140
+     ggggtgtccc ttggatgggg atggtagtcc tctgaaggga tggagcaaaa tgagttggtc      1200
+     ttggagactg gctcagtgtg agaaggctgg tggaatgggg aaagcccagt ggggaaagaa      1260
+     ccttccttga gggagggtct tgtgggactg gggacccgga ggactggcca ggcagctaca      1320
+     gaaagtttga aaaactactc aaggggagcc aacatagaca tcaacttgcc ttgacttcaa      1380
+     cttgcaccca tagattaaat caaaaacaac aagatcttca gccactagtc caagctggga      1440
+     gggtgggtat ctgtaatacc ccgggtgaga aagatgcatg gggacaggtc agtgagaaat      1500
+     cctagttctg tttgtattct ctcctgtgtc tgccctgaag agactggaga aggaactatc      1560
+     tccctgagaa gggttgggta aagatcttgg taagacttct ttggaaccag tcagctcttg      1620
+     gggcctgtgt cccgacagac cgactgtcac agattgggca agatgggagt cattctcagg      1680
+     tggatgtctg gcccacgcct gactctgaag tggacagggt ggttcagctc ttcactgaga      1740
+     ctctctcttt ccaggtatct cagaaccctg aagccgagag gagccaggcc agatcccctg      1800
+     gagaagtcat gattttggga gatgcagagt cgtctgtgag aacgtcttcg gggagctctc      1860
+     tctgggaacg ctcgtggctc ttgtgaggaa agggctgcgg ggcttgggtg ggtggacggc      1920
+     tgggctgcag ctatggaccg agagctggcc caggcctgca tccctgctga gcctgcccaa      1980
+     gtgtggctgc tcccaccatg ggctcctcgg tgtacatcac ggtggagctg gccatcgctg      2040
+     tgctggccat cctgggcaac gtgctcgtgt gctgggccgt gtggatcaac agtaacctgc      2100
+     agaacgtcac caacttcttt gtggtatcgc tggcggcggc tgacattgca gtgggtgtgc      2160
+     tcgccatccc cttcgctatc accatcagca ccggcttctg cgccgcctgc cacggctgcc      2220
+     tcttcttcgc ctgttttgtc ctggtcctca cgcagagttc catctttagc ctcttggcta      2280
+     tcgccatcga ccgctacatc gccatccgaa ttc                                   2313
+//
+ID   RRD218     standard; DNA; ROD; 2191 BP.
+XX
+AC   D86218;
+XX
+SV   D86218.1
+XX
+DT   27-FEB-1997 (Rel. 51, Created)
+DT   27-FEB-1997 (Rel. 51, Last updated, Version 1)
+XX
+DE   Rat PP1alpha gene, 5'-flanking region.
+XX
+KW   PP1 alpha.
+XX
+OS   Rattus rattus (black rat)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae; Murinae;
+OC   Rattus.
+XX
+RN   [1]
+RP   1-2191
+RA   Nomoto K.;
+RT   ;
+RL   Submitted (24-JUN-1996) to the EMBL/GenBank/DDBJ databases.
+RL   Ken Nomoto, Institute of Immunological Science, Hokkaido University,
+RL   Section of Biochemistry; Kita-15, Nishi-7, Kita-ku, Sapporo, Hokkaido 060,
+RL   Japan (E-mail:kenny@imm.hokudai.ac.jp, Tel:+81-11-706-5536,
+RL   Fax:+81-11-707-6839)
+XX
+RN   [2]
+RP   1-2191
+RA   Nomoto K., Shibata N., Kitamura K., Mizuno Y., Kikuchi K.;
+RT   "Molecular cloning and analysis of the 5'-flanking region of the rat PP1
+RT   alpha gene";
+RL   Unpublished.
+XX
+RN   [3]
+RA   Nomoto K., Shibata N., Kitamura K., Mizuno Y., Kikuchi K.;
+RT   "Molecular cloning and analysis of the 5'-flanking region of the rat PP1
+RT   alpha gene";
+RL   Biochim. Biophys. Acta 1309:221-225(1996).
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2191
+FT                   /db_xref="taxon:10117"
+FT                   /organism="Rattus rattus"
+FT   misc_feature    1..2191
+FT                   /note="5'-flanking region"
+FT                   /gene="PP1 alpha"
+XX
+SQ   Sequence 2191 BP; 492 A; 616 C; 625 G; 458 T; 0 other;
+     gaattcccat ctggagttct tgggccagag atgaaaaggg aaaagatgtt cagtttgaag        60
+     agaaagtgca gaccctcggg ggataataga gatgtaaaag accttccctc caccaccctt       120
+     cttaccttaa tcccacatgg aacctgagga gtgacactgg aatgtcacag ctgagttctg       180
+     ggctggtgtc tacagcaaga ccctagaggc caggcctgat tccacaactc agtcctcagc       240
+     ctctgtcccc tacccatgcc tcacttaccc cagctcagct agttgccccc aatgaagcca       300
+     tatcggtcag cctgacgata tgggctggac ccactgatct ctgagtcgga ccctagagag       360
+     ctagaatcat cctgtagttc tggacggtag caacaagtcc tctcccaggg cctgggccat       420
+     tctgcctaga cccagtgtca cagctgcaag acatatagag agccagtgtg aacagccaga       480
+     ctgaggctgg ggttccagga accagtcctc agtcacgggg gagtcaggta gtccctgagg       540
+     taccacaaag accaagtctc tgtgtagaga cccaccccag gcctggcccc tagcccagct       600
+     cacctccttg ctgcacctca cctcctcctc tcacttcctc ctcagtctca gcttcagcag       660
+     cctattgggg gcccctccct ggtgggggga ctcccccctt cctctatgag gttcttcctg       720
+     cttgccttag tgcctgagcc acggactcct ccatcacgga tggaggtgtg aagagtcccg       780
+     acttgcccaa gttgaagatg acaggccact atcggttttg aggttacttg cgtgtaaaac       840
+     caactcatgg ttccagtaat aattatgctt taatgtcgtc ccaccactcc aacccactgt       900
+     cctgggtttt cttttttgag agtgaaaggg tacagtctgg gaacaagggt ctcacgtagc       960
+     ccaggcagga gatgaactca ctatgtagtt gagcatgacc ctgaacttct gatcctcctg      1020
+     tgtctagact cctgagtgct ggaatttcag gcactggaat tacaggttta tgatacattg      1080
+     ggttctttaa cgtgttactg tttaaaaata atacctttcc ccccttttct ttctttactt      1140
+     tccttccaga gccggagata aaacctcagg ccttgcacat gctagacaag tccaagcatt      1200
+     ctacaaagga cttacaacag gaaggagata aaatagtatt acatcactta acgaaaaaaa      1260
+     aaacctgacg tagcaggcac caaggcaacc tggaccaaaa cattgcttcg agttcagtag      1320
+     caggtgttca tgggtctggc cataaagacc gaggtgaatg tgaggctctg gaggtttgga      1380
+     gctcactctc agtgtcattg agccttagtt cctttttctg cacttcgagg aattacttta      1440
+     cagtgtttga gaagtcagcg attaacatgc tcacaccaca atcccacgca gggctggggt      1500
+     gggaagagac ttggaaagag aaaaacaatt tctacagtac ttccggttct aactcatcag      1560
+     aacgcagcag ggcgattcct cctgggtgga gccgacccaa ctccgcccta caaaccccgc      1620
+     cctccacccc tgccaggcct cgcccggccg cccgaggccc tccccggctg cagtgcttcc      1680
+     ggtccagggg aggcgctaga gagcagggaa ctacggacgc ggcagggcgg ggcggccggc      1740
+     cgaagaggcg gggcggcggg ccgagggcgg gctggggagg gcggaaggag agccaggccg      1800
+     gaaggaggct gcaagagggc gggaggcagg agagggcccg gagctggtgg gccggagcgg      1860
+     cggcgccgcc atgtccgaca gcgagaagct caacctggat tccatcatcg ggcgcctgct      1920
+     ggaaggtggg taggggtagg gaaggtgcgc gcgcgccgag cctgggccca tcgccgtccg      1980
+     gaagtagagc gcgggcgggc ccgccgctct cgggggctag cgtcgcttgg gcggggacag      2040
+     gccgtgaggt tctatggcca cggcagccct ccctactccc tgcgcctagg ctttggagcg      2100
+     cgctccgagg ccggggacgc ttgagtggcc gagactcagg gtgagactcc tgcgaagcta      2160
+     gctgggaagg ggttctgagg cgaggaacct t                                     2191
+//
+ID   MMFLI1G    standard; DNA; ROD; 3221 BP.
+XX
+AC   L47615;
+XX
+SV   L47615.1
+XX
+DT   04-OCT-1995 (Rel. 45, Created)
+DT   04-MAR-2000 (Rel. 63, Last updated, Version 3)
+XX
+DE   Mus musculus DNA-binding protein (Fli-1) gene, 5' end of cds.
+XX
+KW   DNA-binding protein.
+XX
+OS   Mus musculus (house mouse)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae; Murinae;
+OC   Mus.
+XX
+RN   [1]
+RP   1-3221
+RX   MEDLINE; 91087339.
+RA   Bergeron D., Poliquin L., Kozak C.A., Rassart E.;
+RT   "Identification of a common viral integration region in Cas-Br-E murine
+RT   leukemia virus-induced non-T-, non-B-cell lymphomas";
+RL   J. Virol. 65(1):7-15(1991).
+XX
+RN   [2]
+RP   1-3221
+RA   Barbeau B., Bergeron D., Beaulieu M., Nadjem Z., Rassart E.;
+RT   "Identification of the human and mouse Fli-1 promoters";
+RL   Unpublished.
+XX
+DR   MGD; MGI:95554; Fli1.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..3221
+FT                   /db_xref="taxon:10090"
+FT                   /organism="Mus musculus"
+FT                   /strain="C57BL"
+FT   TATA_signal     2043..2049
+FT                   /note="putative"
+FT   exon            2078..2482
+FT                   /gene="Fli-1"
+FT   protein_bind    2187..2202
+FT                   /evidence=EXPERIMENTAL
+FT                   /note="the evidence will be provided in a coming paper.
+FT                   Barbeau et al."
+FT                   /gene="Fli-1"
+FT                   /bound_moiety="GATA-1"
+FT                   /function="DNA binding protein"
+FT   protein_bind    2204..2211
+FT                   /evidence=EXPERIMENTAL
+FT                   /note="the evidence will be provided in a coming paper.
+FT                   Barbeau et al."
+FT                   /gene="Fli-1"
+FT                   /bound_moiety="Spi-1/PU-1"
+FT                   /function="DNA binding protein"
+FT   GC_signal       2371..2383
+FT                   /gene="Fli-1"
+FT   GC_signal       2438..2444
+FT                   /gene="Fli-1"
+FT   CDS             2465..>2482
+FT                   /citation=[2]
+FT                   /codon_start=1
+FT                   /db_xref="MGD:MGI:95554"
+FT                   /gene="Fli-1"
+FT                   /product="DNA-binding protein"
+FT                   /protein_id="AAA77653.1"
+FT                   /translation="MDGTIK"
+FT   intron          2483..>3221
+FT                   /gene="Fli-1"
+FT   protein_bind    2553..2559
+FT                   /evidence=EXPERIMENTAL
+FT                   /note="the DNA binding factor is present in all cell types
+FT                   but we did not identified it. The data will be published in
+FT                   a coming paper. Barbeau et al."
+FT                   /gene="Fli-1"
+FT                   /bound_moiety="ubiquitous protein"
+FT                   /function="DNA binding protein"
+XX
+SQ   Sequence 3221 BP; 690 A; 818 C; 1019 G; 694 T; 0 other;
+     gaattcttgt tgagaaggaa ttgggctcaa tgaagttcgg ggatattcca agtgaattat        60
+     tccagtgagt gttattcagc aatggacgtg actgtcgttt gccagatcag cagaagccga       120
+     aaggaaaacc tggtgattgt ctgccaccac ttggcccttg gggcagggcg gggcggggcg       180
+     gggggcgtgg tgattaaatg tggattggta ttttgtggct ttgtaagtcc cagtgctgga       240
+     aggagacctc tgtgggggag acgtcaaata ctttggacag aaagagggtc ccagtatagc       300
+     ttgggcgacc tctgaaagta gttatcattt gatgttgggt gaaaggaaaa tttggggttt       360
+     gaaaggatgt aattgattct tctttccctt taacctcttt cctctctgga aagcatgtgg       420
+     aaacgctgaa gggaagagca agagggcggg cagccggccg caggcaggaa agggttaagc       480
+     ctgatttctt ttaattgaac ctcagaaccc tggtggccca ggtaaacggg gggggaccct       540
+     gaccccgcta gcggtaacca gatgtggcgg tcccagggga gccccggagc agacccctgg       600
+     attgagaagc agacaggagg agggggagtg gcccggcccc caccccacgc ccccacagta       660
+     accgagtctc caatgctggc aggctgcacc gccactccag gtctggtcag gttcagcccg       720
+     tgtctgtatt cgaaccccaa attggaggcg aattgatgag actaatttgg gaagaggggg       780
+     gaagggggag gaggagggag cgagcgagcg caattgctcc tgaagaaata aagaattaat       840
+     aagtcacctt cttgccggcc gtggacaccc tcttgatttt tttttccttt ccaatttatt       900
+     cggatctgct ctggaatttt tcccctcttt tcccgggagg actcttaaat aatagtgaga       960
+     aagtccacag cgtggtctga agagcgtgga aaaaggtaac ctgttttcaa agtctgggag      1020
+     tcaggccgcc agcgccgata ccccagagaa ggcttaacaa gagagctcct gggtcagcag      1080
+     gggaggcgcg ggggatagca gaaagaaccg agccggtaaa gcgggccacg ccgctggttg      1140
+     ggaatgacag tccctagctt ggacccttag actgcccgtt ctcatccaag gtggggtctc      1200
+     tgctgagccg cggctcgccc tcctgggtcc tgctgcgtag tgtggagggc aagctcgccc      1260
+     tggtgtcagt tccttggggg ctccgatggt attgaagaac ttgggccgtc gggtcctgat      1320
+     aggtgagaga atttaactca aaaagcctag gttgtggctg gtctacctcc ttagcgggct      1380
+     gtggagcccg gagtcgaggc gggccaaagc atgggcatct ctctgctaac aaagcttgag      1440
+     gtattgagcc cttgacaggt caggtccgcg ggacccagaa ttcgctttga gcctatccgg      1500
+     agaccagcgc ttagatgcaa aaactctctt cggctcctct ctttctttct ttctttcttt      1560
+     ctttctttct ttctttcttt ctttctttct ttctttcttc cttccttcct tccttccttc      1620
+     cttccttcct tccttccttc cttccttttt aaaaatagta ggtttgcctt gatctgcatc      1680
+     cgaatctccc ctggcggtca gcatcgccag gttatcccct gttctaacaa actcttccgc      1740
+     cgtcttcctc ccatccccaa aaaagtttga ctccggctgg aaaaagcatt aatgaatgta      1800
+     tctgtgggaa gaaacggaaa gtgaatgagt caggagggcc accttcggcc aaaggcccaa      1860
+     gggaaggaaa gaggccagag cgtttggctt tggatttggg gggaagtgat gggggagttg      1920
+     cagactcagg aatcagggag cggatactgg gcgtggaccc cgtcattgtt cctggccagt      1980
+     cttatctccc aggagcaagt atcctgtgtg cgcagtgcat gaatgtaact gggcatcccg      2040
+     cgtatattta tatagcgagt gatgcgaaaa gcagggcgag gagaggacga gggggtgtgg      2100
+     gggagggaag acaagagaga gcagagagtg gagagggcga gatgagagag agagagagag      2160
+     agagagagag agagagagag agagagagag agagagagat aggacttcct ccccgatcgc      2220
+     aaagtgaagt cacttcccaa aattagctga aaaaaagttt catccggtta actgtctctt      2280
+     tttcgatccg ctacaacaac aaacgtgcac aggggagcga gggcagggcg ctcgcagggg      2340
+     gcactcagag agggcccagg gcgccaaaga ggccgcgccg ggctaatctg aaggggctac      2400
+     gaggtcaggc tgtaaccggg tcaatgtgtg gaatattggg gggctcggct gcagacttgg      2460
+     ccaaatggac gggactatta aggtaagcgg ctgggcagtg ggcgcgggga gagtgccgac      2520
+     cggggcggcg ggagggctgg gcgccggggt cccggaagac gtggccgctc tcccttcctt      2580
+     ccgcgccccg gcttcgcgcg gtctcctccg ggtggcgagt cccccattcc gaggaggccg      2640
+     gccagccttc ccgcccaggg cgatctaccc ctcactcctt gcgccactgt ggaatcccgc      2700
+     aggctcccac tgtgccgccc gaaggctgcg agacccggca gctgaaacct ggggacccgg      2760
+     ggcgcggaga gagtctcggg cgggagatcg ccgggtcggt tcccacccgg cacccagacg      2820
+     acctggcccc ggcgccaggc actagtctgg cggccagctt cctcacgcca gaggccgaga      2880
+     tctgcgcggg caggagcagc ttcgcctctg gctggggtcc cccgaccctc cgagcgagtt      2940
+     ggaggagtag ttgcgggagg gcaaggggtg caagggaggg tgtctgagga tccaggaggt      3000
+     gtcctctcag taagaattaa actccttcaa cagctgtccc cctgcggtgg ctggttcagt      3060
+     ctatggcttc agtctatggc ctggggttgc gattgcaccc ccacccccac ccgccacccg      3120
+     cgccggccca gcttgggtct aggttgcaaa gtgcagacca gcagacctgt gagtctgggt      3180
+     tccctgtcac gcttcagaaa ggccgagtgc tccctccgaa a                          3221
+//
+ID   GG10577    standard; RNA; VRT; 831 BP.
+XX
+AC   U10577;
+XX
+SV   U10577.1
+XX
+DT   11-DEC-1994 (Rel. 42, Created)
+DT   04-MAR-2000 (Rel. 63, Last updated, Version 5)
+XX
+DE   Gallus gallus bone sialoprotein II mRNA, complete cds.
+XX
+KW   .
+XX
+OS   Gallus gallus (chicken)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Archosauria; Aves; Neognathae; Galliformes; Phasianidae;
+OC   Phasianinae; Gallus.
+XX
+RN   [1]
+RP   1-831
+RX   MEDLINE; 91076896.
+RA   Gotoh Y., Pierschbacher M.D., Grzesiak J.J., Gerstenfeld L., Glimcher M.J.;
+RT   "Comparison of two phosphoproteins in chicken bone and their similarities
+RT   to the mammalian bone proteins, osteopontin and bone sialoprotein II";
+RL   Biochem. Biophys. Res. Commun. 173(1):471-479(1990).
+XX
+RN   [2]
+RP   1-831
+RX   MEDLINE; 95335314.
+RA   Yang R., Gotoh Y., Moore M.A., Rafidi K., Gerstenfeld L.C.;
+RT   "Characterization of an avian bone sialoprotein (BSP) cDNA: comparisons to
+RT   mammalian BSP and identification of conserved structural domains";
+RL   J. Bone Miner. Res. 10(4):632-640(1995).
+XX
+RN   [3]
+RP   1-831
+RA   Yang R.;
+RT   ;
+RL   Submitted (13-JUN-1994) to the EMBL/GenBank/DDBJ databases.
+RL   Renji Yang, Orthopedic Surgery, Children's Hospital, Harvard Medical
+RL   School, 300 Longwood Avenue, Boston, MA 02115, USA
+XX
+DR   SPTREMBL; P79780; P79780.
+XX
+CC   On Dec 8, 1994 this sequence version replaced gi:595405.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..831
+FT                   /db_xref="taxon:9031"
+FT                   /organism="Gallus gallus"
+FT                   /strain="White leghorn"
+FT                   /sub_species="domesticus"
+FT                   /clone="mmpp3, lgpp9 and cBSP5"
+FT                   /tissue_type="bone"
+FT                   /dev_stage="17 day embryo"
+FT   sig_peptide     1..48
+FT   CDS             1..831
+FT                   /codon_start=1
+FT                   /db_xref="SPTREMBL:P79780"
+FT                   /evidence=EXPERIMENTAL
+FT                   /note="BSP"
+FT                   /function="bone matrix protein, calcification and cell
+FT                   adhesion"
+FT                   /product="bone sialoprotein II"
+FT                   /protein_id="AAB38374.1"
+FT                   /translation="MRTALLLACLLATASAFSVRSWLRRARAGDSEENAVLKSRHRYYL
+FT                   YRYAYPPLHRYKGSDSSEEEGDGSEEEEEGGAPSHAGTQAAGEGLTLGDVGPGGDAASA
+FT                   HQDCKGGQKGTRGDSGDEDSDEEEEEEEEEEEEEEVEEQDVSVNGTSTNTTAHTPHGNN
+FT                   TVAAEEEEDDDEEEEEEEEEEEEAEATTAAATTAQDEVTTLGDEQRSEVTTAGEQWEYE
+FT                   VTVGARGDEGPTESSYGDQEEPARGDSYRAYEDEYGYYKGHGYDMYGQDYYYNQ"
+FT   mat_peptide     49..828
+FT                   /evidence=EXPERIMENTAL
+FT                   /product="bone sialoprotein II"
+XX
+SQ   Sequence 831 BP; 204 A; 197 C; 324 G; 106 T; 0 other;
+     atgaggacgg cgctgctgct tgcctgcctg ctggccactg cctccgcctt ctcggtgagg        60
+     agctggctgc gcagagcccg ggcaggcgac tcggaggaga atgcggtgct gaagagccgg       120
+     caccggtact acctgtaccg ctacgcctac ccgccgctgc atcgctacaa gggcagtgac       180
+     tcctcggagg aagaggggga cggctcagag gaggaggagg aagggggggc accgtcccat       240
+     gcaggtactc aggcagcagg cgaggggctg accctcgggg atgtggggcc gggaggtgac       300
+     gctgcgtctg cccatcagga ctgcaaaggg ggccagaagg gcacacgggg tgactcgggc       360
+     gatgaggaca gtgatgagga agaggaggaa gaggaggagg aggaggagga agaagaggta       420
+     gaggagcagg atgtcagtgt caatgggacc agcaccaaca ccacagcaca cacaccccat       480
+     gggaacaaca ccgtggcagc tgaggaggag gaggatgatg atgaggagga ggaagaggaa       540
+     gaagaggagg aggaggaagc tgaagccacc accgctgctg ccaccactgc gcaggatgag       600
+     gtgaccacgt tgggcgatga gcagcgctct gaggtcacta cagctgggga gcagtgggag       660
+     tacgaggtga cagtgggagc ccgcggggat gaaggtccca ctgagagcag ctatggggac       720
+     caggaggagc cagcacgtgg ggacagctac cgcgcctatg aggatgagta cggctactac       780
+     aaggggcatg gctatgacat gtatgggcag gattactact acaaccagtg a                831
+//
+ID   BTU24240   standard; DNA; MAM; 1728 BP.
+XX
+AC   U24240;
+XX
+SV   U24240.1
+XX
+DT   12-JAN-1997 (Rel. 50, Created)
+DT   04-MAR-2000 (Rel. 63, Last updated, Version 2)
+XX
+DE   Bos taurus Fas/APO-1 antigen gene, promoter region and partial cds.
+XX
+KW   .
+XX
+OS   Bos taurus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Cetartiodactyla; Ruminantia; Pecora;
+OC   Bovoidea; Bovidae; Bovinae; Bos.
+XX
+RN   [1]
+RP   1-1728
+RX   MEDLINE; 96211163.
+RA   Yoo J., Stone R.T., Kappes S.M., Toldo S.S., Fries R., Beattie C.W.;
+RT   "Genomic organization and chromosomal mapping of the bovine Fas/APO-1
+RT   gene";
+RL   DNA Cell Biol. 15(5):377-385(1996).
+XX
+RN   [2]
+RP   1-1728
+RA   Yoo J., Stone R.T., Kappes S.M., Toldo S.S., Fries R., Beattie C.W.;
+RT   ;
+RL   Submitted (07-APR-1995) to the EMBL/GenBank/DDBJ databases.
+RL   Genetics and Breeding, USDA, ARS, Roman L. Hruska U.S. Meat Animal Research
+RL   Center, P.O. Box 166, Clay Center, NE 68933, USA
+XX
+DR   SPTREMBL; P79112; P79112.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1728
+FT                   /chromosome="26"
+FT                   /db_xref="taxon:9913"
+FT                   /organism="Bos taurus"
+FT   promoter        <1..1479
+FT   mRNA            1480..>1728
+FT   5'UTR           1480..1640
+FT   CDS             1641..>1728
+FT                   /codon_start=1
+FT                   /db_xref="SPTREMBL:P79112"
+FT                   /product="Fas/APO-1 antigen"
+FT                   /protein_id="AAB40070.1"
+FT                   /translation="MSGIWVHLSLVSRLCPGEASPSSATGLAR"
+XX
+SQ   Sequence 1728 BP; 435 A; 464 C; 436 G; 393 T; 0 other;
+     tgggctaaaa tggcaaatat taggtaagga agaaccattt gtgaaagttg ttgacttatg        60
+     attcattctc aagagatgct gattttgtca gctgtctcgc tctcctccct cccttcctct       120
+     cgcctttctt atgatttttt tttatttcaa taaacttcta atttcagaat agttttcgac       180
+     ttacagaaaa gttgcaaaga taatacagag tctccatatg ccagaccctt tacacccctc       240
+     tccccaacct cccaccattc atttcttttt gtgtctgttt tgggttggga actgcaggag       300
+     caggatcttc ttcacagcac taacaatctg ctgggcagtg aagcaggggg caggtaaatc       360
+     cacacctgta agacagggcc acgagtgcag agcagaaaac agggagagtg aaagcattta       420
+     gaagcaaagc attagaagca aagcaaagct cctaaccttg aattgggaga caggaagatc       480
+     tcccagacga aaatgtcttg aaaatgtctt cagagaggga tccagatgga tgaggaatga       540
+     gccaggcaaa gggagggaaa ggagagtgtt cctaatggga tacagccaac agggaagatg       600
+     gacaaccgag tgcaggtgca gagcttatgg aggaggcggg ccccagctta ccaactactt       660
+     gcagaatcac gctcacgaag gatgtcatta tacaaacctt ctgtaaaact gttgcgaact       720
+     ggctaaccag acgaatcaac ttttccaaaa cagtaatgac ttcgagctgt taaccaaagc       780
+     actaaaatat actttttttt taaataaaga aatgcagaaa tgagtatcag agggaagtaa       840
+     ttgtacgctt taatcatata gctggaggtg tgtgatttgt cttaggagtt agctttgtac       900
+     tcctcgtgag aataaaatat agagggtcct ccctcttcgg aatcctcaca gcactggcca       960
+     ctacagacac tagtccgggg ttcctgtgag cctttaacgt cgccaccacg gcacacggag      1020
+     ctgagccaag gctgggtctg ctctgggaat cccagcagtc agccgaggct cctgctccga      1080
+     gcaagacgcg tgcgctctgc acttcagtcc tccccagcct ccccagatga aactgcagaa      1140
+     gagtttagaa aggacatggg gcccgttctc aggatcctca cctgaacccg agcatgccag      1200
+     tcgactgcgg aaacgctccc aacgggaatg cccgcttgtg caacaacgct ggcgctttcc      1260
+     ccgctccccg ttcaacaccc cttcccccac cccaccccca actccaggcg cagggttgca      1320
+     gaatcaaagg cgccctcccc tactcgggcg ttccccagct aagcttcctc ctccaacccc      1380
+     caccccctgg ctccggggac atttctttag gtcttttcaa atgagctacc aacaggtgtt      1440
+     cagacacgct gctggagaaa gaggaaagcg tcccgagagt aactgtgcgt gagcgcccgg      1500
+     ggcgggcccg ggaggggagc actctcccag gccggctgga gcgcggggag gggccagtcg      1560
+     gggctcacta ctcaccgggt gcgtaactcg ccctggtgcc agttgtaagg ctccttcact      1620
+     tcggagattg tttcacagcc atgtccggga tctgggttca cttgtcactg gtgagtcgtc      1680
+     tctgccccgg cgaggcctct cccagctcgg ccactgggct ggcgcggg                   1728
+//
+ID   HSMPD3S02  standard; DNA; HUM; 565 BP.
+XX
+AC   U29912;
+XX
+SV   U29912.1
+XX
+DT   03-OCT-1995 (Rel. 45, Created)
+DT   02-JUL-1999 (Rel. 60, Last updated, Version 8)
+XX
+DE   Human AMP deaminase (AMPD3) gene, exon 1a.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-565
+RX   MEDLINE; 96201708.
+RA   Mahnke-Zizelman D.K., Eddy R., Shows T.B., Sabina R.L.;
+RT   "Characterization of the human AMPD3 gene reveals that 5' exon useage is
+RT   subject to transcriptional control by three tandem promoters and
+RT   alternative splicing";
+RL   Biochim. Biophys. Acta 1306(1):75-92(1996).
+XX
+RN   [2]
+RP   1-565
+RA   Sabina R.L.;
+RT   ;
+RL   Submitted (22-JUN-1995) to the EMBL/GenBank/DDBJ databases.
+RL   Richard L. Sabina, Biochemistry, Medical College of Wisconsin, 8701
+RL   Watertown Plank Road, Milwaukee, WI 53226, USA
+XX
+CC   approximately 400 bp to next reported sequence, GenBank Accession
+CC   Number U29923.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..565
+FT                   /chromosome="11"
+FT                   /db_xref="taxon:9606"
+FT                   /organism="Homo sapiens"
+FT                   /clone_lib="RPMI 8402, lambda 2001 library of R. Baer"
+FT                   /map="11p13-pter"
+FT                   /cell_type="T-lymphocyte, cytotoxic"
+FT   promoter        1..178
+FT                   /note="may be part of 1a promoter"
+FT                   /gene="AMPD3"
+FT   5'UTR           143..486
+FT                   /gene="AMPD3"
+FT   exon            143..508
+FT                   /label=exon1a
+FT                   /note="multiple transcript initiation sites"
+FT                   /gene="AMPD3"
+FT   intron          509..>565
+FT                   /label=intron1a
+FT                   /gene="AMPD3"
+XX
+SQ   Sequence 565 BP; 40 A; 233 C; 209 G; 83 T; 0 other;
+     ggggagccgg tgtggaagcc gcggggccag cgcagttgag gtctggggag cccggctggc        60
+     atctgctccg ggctgcgggc gggccccgcg gagcccagga ggcggcgggt gcttccggcc       120
+     aagggccctg gcggccgccg cgcccctgct gctctcaagt ttcccgttgg cgccgcggcc       180
+     cgggcgcttc aggtagcctc tcggctctct ctgctccgct ccgcgcccag gtagggcacc       240
+     gacgggggct gcacgcggct ggccggcttc ctccctgctg aggcggccct ccctcctccc       300
+     gcggggccct cctggccggg gatccgcagc gctgcgccct ctgaacgccc ggcccccgcg       360
+     cctgctgcgg ggcggggcct ggccgggccc tggccccggc gggcctcagt gccagcagcc       420
+     ccgctccgct ctgcccagcg cgtccccttt gctccagccc tgcggccgtc cctttcggcc       480
+     ggcggcatgg ccctgtcgtc cgaacccggt gagtgcgcgc gaggctgcgt gctgaccttg       540
+     ggccagcccc gcgaccctgc gcccc                                             565
+//
+ID   HS302451   standard; DNA; HUM; 1093 BP.
+XX
+AC   U30245;
+XX
+SV   U30245.1
+XX
+DT   14-AUG-1995 (Rel. 44, Created)
+DT   04-MAR-2000 (Rel. 63, Last updated, Version 3)
+XX
+DE   Human myelomonocytic specific protein (MNDA) gene, 5' flanking
+DE   sequence and complete exon 1.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-1093
+RX   MEDLINE; 94214126.
+RA   Briggs R.C., Briggs J.A., Ozer J., Sealy L., Dworkin L.L., Kingsmore S.F.,
+RA   Seldin M.F., Kaur G.P., Athwal R.S., Dessypris E.N.;
+RT   "The human myeloid cell nuclear differentiation antigen gene is one of at
+RT   least two related interferon-inducible genes located on chromosome 1q that
+RT   are expressed specifically in hematopoietic cells";
+RL   Blood 83(8):2153-2162(1994).
+XX
+RN   [2]
+RP   1-1093
+RX   MEDLINE; 92355667.
+RA   Briggs J.A., Burrus G.R., Stickney B.D., Briggs R.C.;
+RT   "Cloning and expression of the human myeloid cell nuclear differentiation
+RT   antigen: regulation by interferon alpha";
+RL   J. Cell. Biochem. 49(1):82-92(1992).
+XX
+RN   [3]
+RP   1-1093
+RA   Kao W.Y., Briggs J.A., Dworkin L.L, Briggs R.C.;
+RT   ;
+RL   Submitted (21-JUN-1995) to the EMBL/GenBank/DDBJ databases.
+RL   Robert Briggs, Pathology, Vanderbilt University 23rd and Pierce, Nashville,
+RL   TN 37232-5310, USA
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1093
+FT                   /chromosome="1"
+FT                   /db_xref="taxon:9606"
+FT                   /organism="Homo sapiens"
+FT                   /map="1q21-22"
+FT   exon            850..1093
+FT                   /note="expression is modulated by interferon alpha; MNDA
+FT                   cDNA sequence can be found in GenBank Accession Number
+FT                   M81750"
+FT                   /number=1
+FT                   /gene="MNDA"
+FT                   /product="myelomonocytic specific protein"
+XX
+SQ   Sequence 1093 BP; 347 A; 217 C; 195 G; 334 T; 0 other;
+     tccttttcca gtcatgacca cattttgctt acagatcagc tagttggtaa ccacagcact        60
+     gtctgctaac tgataccatt catttgacaa ttcagagtta tgatactttg tagtgcaccc       120
+     actgttcttc acaggaaaaa aaaattgcag tacaaagggt ttatcaggcc ccctatcatt       180
+     ccagagtttc agtgctgttc cagaatgttc aaggtttcag tcatgatacg aaccaactat       240
+     ccataaataa tgcaaaaagc atgagtaatc atgaatttaa taatcaaggt aaggcagctc       300
+     agttattata ctcaagagag caactagtat gaaactcttt caaattattt gaataaggat       360
+     ttacatattc ataatgactt tctgcctctg tcaagctcca ggtgtatcag ttattaataa       420
+     ctgggtgaat atgtaggtac tatttaaaca aaaacaattt cacagtagac ccacccctat       480
+     ccaagagatg aagtcaagtt ctggtagcaa tagacatctc taccaagatc tcctgctcct       540
+     gccactctgt gaacaggaaa ggagggagaa actttggtgt tttgcctttc ccaatttata       600
+     ttaagatcct tattcaagcg gctaccggtt tctaatgacc tatatgtaag ttagctttat       660
+     aagaaagttc tgagtttgaa actcctttca gcaagtattt gtaagtcaaa aaagcgaaga       720
+     agaggcacca tttactgtca tttctccttg tgactgagat tacttactac aaagaggaac       780
+     tgaccacttt ctctgacatc tgaaatagaa agctacaaag gctgataggc gtggcttcaa       840
+     aattgtttca tgattacata acttctttct agttaggaat taggacagtg taagaaggcc       900
+     atctacaatc aagattgaga gtggctctaa caagtgccat ttttccttgt tagctttcat       960
+     ttctcagccc tttacaagat taaaatagtc tgcagtttaa tctctccaaa gctttacgga      1020
+     cagtgattct gtcctaaaca agacagtgac tccaggattt ctgaagacta ttgtggaaga      1080
+     agcatccatt aag                                                         1093
+//
+ID   HSARB1S1   standard; DNA; HUM; 682 BP.
+XX
+AC   U49855;
+XX
+SV   U49855.1
+XX
+DT   28-MAR-1996 (Rel. 47, Created)
+DT   02-JUL-1999 (Rel. 60, Last updated, Version 3)
+XX
+DE   Human retinoic acid receptor beta 1 (RARbeta1) gene, 5' region  and
+DE   exon 1.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-682
+RX   MEDLINE; 97107426.
+RA   Toulouse A., Morin J., Pelletier M., Bradley W.E.;
+RT   "Structure of the human retinoic acid receptor beta 1 gene";
+RL   Biochim. Biophys. Acta 1309(1-2):1-4(1996).
+XX
+RN   [2]
+RP   1-682
+RA   Toulouse A., Morin J., Pelletier M., Bradley W.E.C.;
+RT   ;
+RL   Submitted (23-FEB-1996) to the EMBL/GenBank/DDBJ databases.
+RL   Institut du Cancer de Montreal, Centre de recherche L.-C. Simard, 1560
+RL   Sherbrooke E., Montreal, Qc H2L 4M1, Canada
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..682
+FT                   /chromosome="3"
+FT                   /db_xref="taxon:9606"
+FT                   /organism="Homo sapiens"
+FT                   /map="3p24"
+FT                   /tissue_type="placenta"
+FT   promoter        1..50
+FT                   /gene="RARbeta1"
+FT   exon            51..285
+FT                   /number=1
+FT                   /gene="RARbeta1"
+FT   intron          286..>682
+FT                   /number=1
+FT                   /gene="RARbeta1"
+XX
+SQ   Sequence 682 BP; 102 A; 227 C; 247 G; 106 T; 0 other;
+     aggggcagca accagagcag cagcagtggc agcagtagca ggcgccggcc gccgccgccg        60
+     ctccggctca gctcacgcgg aaaccccact ggggcccgtc gtggctccgc gcggttgcgg       120
+     gccagcgtgg agaggctggg accgtggcgc ccgggggcgg gggcctggcg ccagggggcg       180
+     gggcgcagcg agccgggctc ccgctgtctg ctctcagcgg cggcggcagg ggctgaggca       240
+     cagccagcgg cggccgccgc ggactccaag gcagcccgcc aaaagtaaag ccaggagagc       300
+     gcgctggcgg gtcttcctgt tgggtggctg cttgtcccaa gcccctagct tccccggacc       360
+     ccaagctggg tctggaagac cagggcattt gcatggcatc cagggaccgg ctgcctagca       420
+     gggattttgc gtgtaccgcg gcggggccgg gggctggggg ttggggggtc tgcagcggga       480
+     gcccgcgacc gatcccagga catctggact cgcggacaac tttgcgccgg aatcctcttc       540
+     caagttccct ttattgctat tgtcttagcg cctgtctgac agtctccccg gactccagct       600
+     ttgttctcat taggccaaac ccgccctccc caggggcgtg aacccaggag tcgctggcaa       660
+     gttgcacctg ccagccggat cc                                                682
+//
+ID   HSU52432   standard; DNA; HUM; 1604 BP.
+XX
+AC   U52432;
+XX
+SV   U52432.1
+XX
+DT   02-SEP-1996 (Rel. 49, Created)
+DT   01-JUL-1999 (Rel. 60, Last updated, Version 3)
+XX
+DE   Human G-protein coupled inwardly rectifying potassium channel
+DE   Kir3.1 (HGIRK1) gene, sequence flanking the transcription
+DE   initiation site.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-1604
+RX   MEDLINE; 97224457.
+RA   Schoots O., Voskoglou T., Van Tol H.H.;
+RT   "Genomic organization and promoter analysis of the human G-protein-coupled
+RT   K+ channel Kir3.1 (KCNJ3/HGIRK1)";
+RL   Genomics 39(3):279-288(1997).
+XX
+RN   [2]
+RP   1-1604
+RA   Schoots O., Voskoglou T., Van Tol H.H.M.;
+RT   ;
+RL   Submitted (26-MAR-1996) to the EMBL/GenBank/DDBJ databases.
+RL   O. Schoots, Molecular Neurobiology, Clarke Institute of Psychiatry, 250
+RL   College Street, Toronto, ON M5T 1R8, Canada
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1604
+FT                   /db_xref="taxon:9606"
+FT                   /note="leukocyte genomic library lambda EMBL-3 SP6/T7
+FT                   (Clontech #HL1111j)"
+FT                   /organism="Homo sapiens"
+FT                   /cell_type="leukocyte"
+XX
+SQ   Sequence 1604 BP; 315 A; 427 C; 554 G; 308 T; 0 other;
+     tctagatatt ctgagccttt ctaatagagc catttgcaga aaggatttct attagtgttt        60
+     ctctcctttc tgttctcatc ctaaggcccc tcctgcttcc tgcaactttg agttctgaat       120
+     atgcctatct gagagccagt tgggatctct gtttatgatg caaccccaaa tccaggcatc       180
+     cgtttaaacg agtgcccagt tacagagaca tattgtactt ctcttccttc agagagcagc       240
+     atttgctttt tactgggggc tttctgactg atgcaggggg gcgaggaagg agagttggcg       300
+     ggcgtttggg agcagattta gagccgcttc tcattggagg ggctcgcttt tcctgagctg       360
+     ccagacactg caggctcaac tgaggctcgg aggtgcaatt caggctggtg gagcagcggg       420
+     ggaaggcagg gacaggcggg gctagcgcgg ctctgcagct gatcacacgc accaccacac       480
+     acaccacatt cctgctgccc cggcttgccc ctcgcatctt ccacccgggg ccaccgaggc       540
+     gctgacaagg agtgggggac cgaagaagga agaggcagag gaaaagctag agcggcgcta       600
+     ctgtttaacc tgaaagtctg accggcagcc caaggctcga accccgtcca gcagcaccgc       660
+     tgtcgcctgg aaggagggca cagcgccaag gaacccacga gcccccgctc gagtcattct       720
+     gtgctctgtg cgccaaggat ctttctggca gggacagcgc ggtgccctca gggaggtgcg       780
+     gacgttgggg gacctgcatt ggcgcccatc gtggtacacc aggaaaagtg ggaacgagga       840
+     aaacagccgt gagcgcagag tgcgaggcca ggctgccgct accgccctct gcgccgcctc       900
+     ctgccctctc ccgctgggtg agtgcccagg cttcgcgcac tgccgtgtct cagctgagcg       960
+     cgggggcggc ctgcgggccc ttgagggtcc gccggagggc cccggtggcg cccgcggaaa      1020
+     ctcggcggtc gggggacgcc aggcggacag gtctctggag tccggaaccc gggaatctga      1080
+     gcccggaggg tgggtagggg gcgttgcacc agtgcccggc agacatgcct ttgggcggga      1140
+     ttttggctaa aagataggag acaggtgcgc cgggggtgcg gggagcggtc ccagggggcg      1200
+     ggagattggg gagcggcggg gaggggggag ggtactggtc caggcaggta aaggcagctt      1260
+     cttaggcagc cagcgagttg gcaggtgggt tgggactcgc ttgtcaactc attaatttta      1320
+     agcagtcagt ttgggggtac tgcaggataa tcaggagggc cgtggggagt caagaggtga      1380
+     cccgggatgc cggtggtggg gaaagaaaag aggagcctct ggaagcttgg aggcaaaatt      1440
+     gcgcttgggt tcctgttcct tgcatccctc ctggcttgag tgcgggagaa cactttttaa      1500
+     agactcacct tggaaagaag gcctccgtcc caggggagaa ggagaggcgt ctgcaggggg      1560
+     cagagaccgc agctacctgc cgggtgcgcc ccccacccag gagc                       1604
+//
+ID   HSU54701   standard; DNA; HUM; 5663 BP.
+XX
+AC   U54701;
+XX
+SV   U54701.1
+XX
+DT   23-AUG-1996 (Rel. 49, Created)
+DT   04-MAR-2000 (Rel. 63, Last updated, Version 3)
+XX
+DE   Human phenol sulfotransferase (STP) gene, complete cds.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-5663
+RX   MEDLINE; 96211162.
+RA   Bernier F., Soucy P., Luu-The V.;
+RT   "Human phenol sulfotransferase gene contains two alternative promoters:
+RT   Structure and expression of the gene";
+RL   DNA Cell Biol. 15(5):367-375(1996).
+XX
+RN   [2]
+RP   1-5663
+RA   Luu-The V., Bernier F.;
+RT   ;
+RL   Submitted (11-APR-1996) to the EMBL/GenBank/DDBJ databases.
+RL   V. Luu-The, Molecular Endocrinology, CHUL Research Center, 2705 Laurier
+RL   boulevard, Quebec, Quebec G1V-4G2, Canada
+XX
+DR   SPTREMBL; Q92818; Q92818.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..5663
+FT                   /chromosome="16"
+FT                   /db_xref="taxon:9606"
+FT                   /organism="Homo sapiens"
+FT                   /map="16p12.1-p11.2"
+FT   promoter        1..934
+FT                   /note="Alternative promoter sequence for the first mRNA"
+FT                   /gene="STP"
+FT   mRNA            join(935..1000,2072..2223,2328..2453,2543..2640,
+FT                   3857..3983,4079..4173,4699..4879,5001..5332)
+FT                   /gene="STP"
+FT   exon            935..1000
+FT                   /note="5'untranslated sequence for the first mRNA"
+FT                   /number=1
+FT                   /gene="STP"
+FT   promoter        1001..2001
+FT                   /note="Alternative promoter 2 for the second mRNA"
+FT                   /gene="STP"
+FT   exon            2002..2071
+FT                   /note="exon 2a; 5'untranslated region for the second mRNA"
+FT                   /gene="STP"
+FT   mRNA            join(2002..2223,2328..2453,2543..2640,3857..3983,
+FT                   4079..4173,4699..4879,5001..5332)
+FT                   /gene="STP"
+FT   exon            2072..2223
+FT                   /note="exon 2b; sequence common to both types of mRNAs"
+FT                   /gene="STP"
+FT   CDS             join(2076..2223,2328..2453,2543..2640,3857..3983,
+FT                   4079..4173,4699..4879,5001..5113)
+FT                   /codon_start=1
+FT                   /db_xref="SPTREMBL:Q92818"
+FT                   /gene="STP"
+FT                   /product="phenol sulfotransferase"
+FT                   /protein_id="AAC50480.1"
+FT                   /translation="MELIQDTSRPPLEYVKGVPLIKYFAEALGPLQSFQARPDDLLIST
+FT                   YPKSGTTWVSQILDMIYQGGDLEKCHRAPIFMRVPFLEFKAPGIPSGMETLKDTPAPRL
+FT                   LKTHLPLALLPQTLLDQKVKVVYVARNAKDVAVSYYHFYHMAKVHPEPGTWDSFLEKFM
+FT                   VGEVSYGSWYQHVQEWWELSRTHPVLYLFYEDMKENPKREIQKILEFVGRSLPEETVDF
+FT                   MVQHTSFKEMKKNPMTNYTTVPQEFMDHSISPFMRKGMAGDWKTTFTVAQNERFDADYA
+FT                   KKMAGCSLTFRSEL"
+FT   intron          2224..2327
+FT                   /number=1
+FT                   /gene="STP"
+FT   exon            2328..2453
+FT                   /number=3
+FT                   /gene="STP"
+FT   intron          2454..2542
+FT                   /number=2
+FT                   /gene="STP"
+FT   exon            2543..2640
+FT                   /number=4
+FT                   /gene="STP"
+FT   intron          2641..3856
+FT                   /number=3
+FT                   /gene="STP"
+FT   exon            3857..3983
+FT                   /number=5
+FT                   /gene="STP"
+FT   intron          3984..4078
+FT                   /number=4
+FT                   /gene="STP"
+FT   exon            4079..4173
+FT                   /number=6
+FT                   /gene="STP"
+FT   intron          4174..4698
+FT                   /number=5
+FT                   /gene="STP"
+FT   exon            4699..4879
+FT                   /number=7
+FT                   /gene="STP"
+FT   intron          4880..5000
+FT                   /number=6
+FT                   /gene="STP"
+FT   exon            5001..5332
+FT                   /number=8
+FT                   /gene="STP"
+FT   polyA_signal    5312..5328
+FT                   /gene="STP"
+FT   misc_feature    5333..5663
+FT                   /note="3' flanking sequence"
+XX
+SQ   Sequence 5663 BP; 1309 A; 1556 C; 1557 G; 1241 T; 0 other;
+     cttggaagtc ttgggagatt cacctttact cagatggttg tttacctgtc tcgtgcacag        60
+     cttgaccttg gactttaaag tgaggataaa gaacgacgag gatgggggat gcccccttcc       120
+     acggggccct gtggcttcca aacctcggcc tcctctggtc tcttgtctgt ggagcctcct       180
+     tcaaacccag ggaaataaaa ccacctgcca cgggttgtgg ttcttctagg atcttctatc       240
+     aatgttctct gaggtcccca ggagccatga agctggggct gactcccagg gcaatgggac       300
+     tgcagtgtcc ttgttctttc ttgttctatg catccatgct ctgctccacc cctgcccctt       360
+     cactctgccc acacacatcc ctctagactg gccttgtggt cagagcctgg agtggcatgg       420
+     gctgctgggg gcctgtgggc tgcactgggc cagaacccct ggcaccttca agactggcct       480
+     ggagccagca ggtaggtgac ctttccaggg cctgcctatc ccagctttct cctccaatcc       540
+     ctcccctctc ttgcctgggt caattagaga gagcttgtct gttggctgcc tggcagggtg       600
+     gagttcaggg gcaggtcagg agcccagtga cagctcggaa aaaaaaaaaa aaaaaaaaaa       660
+     aaaaaacaga aaaaaaaaac ctacaaaaac aaacccacca ttgggccttt cccctttcat       720
+     tcttctgttt tctacacagc aaactcagtc gtggctttgg agatcacttt aagcttgtct       780
+     ccagctggca cactaaggag ggtaatggag aagctccccc acccccaacc ccaccccttc       840
+     cttccggaag caaatctaag tccagccccg gctccagatc cctcccacag tggacctagg       900
+     aaaccctcag ctcagagaac aaccctgcat tccccacaca gcacccacaa tcagccactg       960
+     cgggcgagga gggcacgagg ccaggttccc aagagctcag gtgagtgaca cagtggaacg      1020
+     gcccagggcg ccctcaccct gctcagcttg tggctctaac attccagaag ctgaggcctc      1080
+     tggcatccct gccctttccc catggatatc ccatttcaga caaccctggc ctgcgtgaat      1140
+     ccccctccct tcccttgttt gtttgttttt ttccccgggg aggccaggtc ttgctgtcac      1200
+     ccaggctgga gtgctgtggg atcctggcca ctgcagcctt gaattcctgg gctcaagtga      1260
+     ttctcttgcc tcagcctctg gagtagctag gactacaggc cctcatcatc ctgcctggtt      1320
+     aatgtttaag aattttttta aagattttta gagatggggt cttgcaatgc tgcaccaggt      1380
+     tggtctccaa ctcctggcct cagcctccct agggtctggg attataggtg ggagccaccc      1440
+     tgcctaggcc tgtgcttttg ctgagtcatc agagttttgt tcattcccac agcagctctg      1500
+     gcccctagta gcagctcagt tcctcaatgg gccgtgtttg tcctggagcc cagatggact      1560
+     gtggccaggc aagtggatca caggcctggc tggcctgggc ggtttccaca tgtgaggggc      1620
+     tgaggggctc aaggagggga gcatctccac tgggtggagg ctgggggtcc cagcaggaag      1680
+     tggtgagaca aagggcgctg gctggcaggg agacagcaca ggaaggtcct agaggttcct      1740
+     cagtgcagct ggactctcct ggagaccttc acacaccctg acatctgggc cttgcccgac      1800
+     gagggtgctt tcactggtct gcaccatggc ccaggccctg ggattttgaa cagctccgca      1860
+     ggtgaatgaa aggtgaggcc aggctgggga accaccgcat tagagcccga cctggttttc      1920
+     agccccagcc ccgccactga gtggctttgt gagtgcgggc aagtcactca gcctccctag      1980
+     gcctcagtga cttccctgaa agcaagaatt ccactttctt gctgttgtga tggtggtaag      2040
+     ggaacgggcc tggctctggc ccctgacgca ggaacatgga gctgatccag gacacctccc      2100
+     gcccgccact ggagtacgtg aagggggtcc cgctcatcaa gtactttgca gaggcactgg      2160
+     ggcccctgca gagcttccag gcccggcctg atgacctgct catcagcacc taccccaagt      2220
+     ccggtaagtg aggagggcca cccaccctct cccaggtggc agtccccacc ttggccagcg      2280
+     aggtcgtgcc ctcagcctgc tcacctccca tctccctccc tctccaggca ctacctgggt      2340
+     aagccagatt ctggacatga tctaccaggg tggtgacctg gagaagtgtc accgagctcc      2400
+     catcttcatg cgggtgccct tccttgagtt caaagcccca gggattccct caggtgtgtg      2460
+     agtgtgtcct gggtgcaagg ggagtggagg aagacagggc tggggcttca gctcaccaga      2520
+     ccttccctga cccactgctc agggatggag actctgaaag acacaccggc cccacgactc      2580
+     ctgaagacac acctgcccct ggctctgctc ccccagactc tgttggatca gaaggtcaag      2640
+     gtgaggcagg gcacagtgtt tcacatccat aatcccagca ctttgggagg ctgaggcagg      2700
+     cagatcacct gaggttggga gtttgagagc accctgagca acatagaaga accttgtctc      2760
+     tactaaaaat acaaaattag ccgggtgtgg tggcgggtgc ctgtaatccc agctactccg      2820
+     aagcctgaga caggagaatc acttgaaccc gggagaagga ggttgtggtg agccagagat      2880
+     cccaccattg cattccagcc tgagcaacaa gagcaaaact cacaaaaata aataaataaa      2940
+     taaatatata aataaaaata aaactgtggc acctgtggtg gctcactgct gtaatgccag      3000
+     cactttggga ggccaaattg ggtggatcac ttgagctcag gagttacaga ccagcccggg      3060
+     aaacatgggg aggtctccat ctctataaaa atgcaaaata tcagcagggc atggtggcat      3120
+     agcgctgtag ttccagctac tggaaagtct gaggttggag gattgcttga gcctggaagg      3180
+     tcaaggttgc agtgagttat tatcactcca gtgcactcca acttgggcga cagaaaaaaa      3240
+     gaaagaccac ggtccttttt tttttttttt tttttgagac tctctgtctc aaaaataaat      3300
+     aaataaaata aaataaaata aaataaatcc cacaataaaa agaaaaagca aaggtccagg      3360
+     tgtggggcat gtgaatccag ggaaggaggc cctggctcag cccagctttg gtcctgttct      3420
+     tctgggaaag tcgcctcact tcctccagcc ttgtctcatc ttctgcggcg gggactgtct      3480
+     gcctcttgct ctgatgacca agaacgtaag actcttcagt gtagacctaa gaaagctaga      3540
+     gggtgggtcc tcacaggccc acaaaatttg gtggcggtgg gatcacggct ggtggagcat      3600
+     gccttgctcc agattggggt gtgacgcatt gatgcagatt atattactat agaatatgat      3660
+     ggtctcaggg accaggcagg actttggctt ctgagcaggg ttccaggcct cctgacttgg      3720
+     ccctaccggt gcccgtgaga tctcaaacaa gtcagcctct aagcctcagg ttcctccttt      3780
+     gccaatccaa gagatgagct ggcctgggac aggctgtgtg gtgatggtgc tggggttgag      3840
+     tcttctgccc ctgcaggtgg tctatgttgc ccgcaacgca aaggatgtgg cagtttccta      3900
+     ctaccacttc taccacatgg ccaaggtgca ccctgagcct gggacctggg acagcttcct      3960
+     ggagaagttc atggtcggag aaggtgggtt tgatgggagg aaggaaagtg tggagccaag      4020
+     gggtggtggc tacaacgcac agcaaccctg tgttggcacc ccttgcctgc ttctccagtg      4080
+     tcctacggat cctggtacca gcacgtgcag gagtggtggg agctgagccg cacccaccct      4140
+     gttctctacc tcttctatga agacatgaag gaggtgagac cacgtgcgat gcttccctcc      4200
+     atgtgactcc tgggggcagg cacctcacag ggacccgcca aggccaccca gccccctccc      4260
+     tgggcagccc ccacagcagg accagattcc ccatcctgcc ttcttggccc aggcctcccc      4320
+     actaaggccc cacctggcag cgggccccac acagctctca tctctcgcac ctgagtcagc      4380
+     tgcatggggg gccacggatc agaaacttag tcctattgct actccctgcc aaagggtgtg      4440
+     ctacccaggg ccacagtcac agaagaagac catcacggtc ctcacccata ggagccaagc      4500
+     ccagctcatg atgggatcac agggcagaca gcaattcttt ttacccccgg gactgggggc      4560
+     cctgggggtt gaggagttgg ctctgcaggg tttctaggag aagtggccag atcgcctctg      4620
+     aggttagaga aggggacccc ttttactttt cctgaatcag taatccgagc ctccactgag      4680
+     gggccctctg ctgctcagaa cccgaaaagg gagattcaaa agatcctgga gtttgtgggg      4740
+     cgctccctgc cagaggagac cgtggacttc atggttcagc acacgtcgtt caaggagatg      4800
+     aagaagaacc ctatgaccaa ctacaccacc gtcccccagg agttcatgga ccacagcatc      4860
+     tcccccttca tgaggaaagg tgggtgctgg ccagcagggg gtttggggcg ggtgggagca      4920
+     gcagctgcag cctccccata ggcacttggg gcctcccctg ggatgagact ccagctttgc      4980
+     tccctgcctt cctccccgag gcatggctgg ggactggaag accaccttca ccgtggcgca      5040
+     gaatgagcgc ttcgatgcgg actatgcgaa gaagatggca ggctgcagcc tcacgttccg      5100
+     ctctgagctg tgagaggggc tcctggagtc actgcagagg gagtgtgcga atcaaacctg      5160
+     accaagcggc tcaagaataa aatatgaatt gagggcccgg gacggtaggt catgtctgta      5220
+     atcccagcaa tttggaggct gaggtgggag gatcatttga gcccaggagt tcgagaccaa      5280
+     cctgggcaac atagtgagat tctgttaaaa aaataaaata aaataaaacc aatttttaaa      5340
+     aagagaataa aatatgattg tgggccaggc agagtggctc atgcctgtaa tcccagcaat      5400
+     ttgagaagtt gaggctagag gatcactgga ggacaggagt ttgggaccag cctgttcaac      5460
+     attacaagac atcatcccta caaaaatttg agaaaattat ctgtacgtga tggtgggcac      5520
+     ctgtagtccc agctacttga caagtgaagg caggaggatc gcctgagcca gggaggttat      5580
+     ggctgcagtg ggctgactgg gctaatccac tcaagcctga gggacagagc aaatcttgct      5640
+     tgagaaataa ataaaataca att                                              5663
+//
+ID   HSU69634   standard; DNA; HUM; 1515 BP.
+XX
+AC   U69634;
+XX
+SV   U69634.1
+XX
+DT   21-JAN-1997 (Rel. 50, Created)
+DT   04-MAR-2000 (Rel. 63, Last updated, Version 3)
+XX
+DE   Human neurotensin receptor gene, promoter region.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-1515
+RA   Le F., Groshan K., Zeng X.P., Richelson E.;
+RT   "Characterization of the genomic structure, promoter region and a
+RT   tetranucleotide repeat polymorphism of the human neurotensin receptor
+RT   gene";
+RL   J. Biol. Chem. 0:0-0(1996).
+XX
+RN   [2]
+RP   1-1515
+RA   Le F., Groshan K., Zeng X.P., Richelson E.;
+RT   ;
+RL   Submitted (05-SEP-1996) to the EMBL/GenBank/DDBJ databases.
+RL   Neuropharmacology, Mayo Clinic Jacksonville, 4500 San Pablo Rd,
+RL   Jacksonville, FL 32224, USA
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1515
+FT                   /chromosome="20"
+FT                   /db_xref="taxon:9606"
+FT                   /organism="Homo sapiens"
+FT                   /map="20q13"
+FT   promoter        1..1515
+FT                   /gene="neurotensin receptor gene"
+XX
+SQ   Sequence 1515 BP; 266 A; 507 C; 511 G; 231 T; 0 other;
+     gaattctcct agctgggcgg gcccgggagg gggttcctca gcctcccgct tccctcaaca        60
+     ccctgcgacc cccgccccag cctgcccagg tttcctgctc ccagcacagc aggtgcagcc       120
+     agccatgtgc acaaaggcca ggctggttcc ctgggctgca ctcgagcagc tcctcccagc       180
+     cctgcacaca tggggcagca gctctaccca acctctccca ggggttctgg ggaggaggga       240
+     gcaggggagg gggcggggag ggcccaaaaa agggacagta ttgccctggg ggcccctggg       300
+     caacccaaac atggaggggg gggcaagctt gtgcctggcc acctatgcca ttgccaccag       360
+     ttgctggggg ggacacggaa aggacaggaa tcttgccctc acctggctcc cgagccaagg       420
+     ggccggggca acctgtgagg acaattcaga gggagggagt gtgcaaagcc tgcagggcct       480
+     gggaggatgc gtgctggggc tgcctctccc aaatcctgct ggggcgcagg ctctcagggt       540
+     ggcttctgat gacaaatcca ggcagtaata aggggcccag ggcatcacat cccatagcgt       600
+     catgagacca gcccagggtg ccagatgcag ggccctgagt ggggagggtg ctgctctggg       660
+     cacctgcttt ctgccctccc tcattcaccc ctccccagac tttgatgaaa ccatctgtgg       720
+     ctcccggcct ctgcaggacc cagcccctca gctcctcagc ccctgcaggt gtccctcggt       780
+     actgcctcac gccatcctgc cccaggtgat aactatgccc tgagccccca ccatttccac       840
+     tgggcacatc ccagaaatac gcattcacag accagggacg cccatgactg cggccagatt       900
+     ttaaaaggaa tcaccagaaa tgtaatctcc agtggtccta gagccccctg ggcacccagc       960
+     ttctggcacc ctgtggacac ccaggagtgg gggtcggccc aaccagctgt gcaggcgccc      1020
+     aggccctgcc aggggggagg ttcctccctc cctgcttgcc ttccggataa aaccttaacc      1080
+     ccaactgagc gagcccaggg ttgggggagg tgcatagttc ccttcctagc cggtgcgaga      1140
+     aattgcggag aacagggaag agggtggcag gaagggtctg gtgcacgata cccgccgcgc      1200
+     ccgctcggaa tcctggttcc cctggagcgc tcaccccagc ccgccctgcc ccggggagcg      1260
+     cgagggggcg acccgccagg ctgcacccgg gcagggcggg gatggcggcg ggggctgcct      1320
+     ccctcgtccg ccgccacccc ccactgctgg gcgcgccgcg cggccgccgg ctccgtggag      1380
+     acgcgcagag ccgggagggc gcgggcgcgg cgggaggtgt gcggggctgg ggtgcgcgga      1440
+     gagcgcgagg gaggagattc tgagcgaggg aggggagcgc gcccgggcag cagtgcgtgc      1500
+     gctcctcccg gcgcc                                                       1515
+//
+ID   HSULDHX01  standard; DNA; HUM; 1984 BP.
+XX
+AC   U75286;
+XX
+SV   U75286.1
+XX
+DT   12-NOV-1996 (Rel. 49, Created)
+DT   01-JUL-1999 (Rel. 60, Last updated, Version 3)
+XX
+DE   Human fatty aldehyde dehydrogenase (ALDH10) gene, 5' flanking
+DE   region and exon 1.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-1984
+RX   MEDLINE; 97179213.
+RA   Rogers G.R., Markova N.G., De Laurenzi V., Rizzo W.B., Compton J.G.;
+RT   "Genomic organization and expression of the human fatty aldehyde
+RT   dehydrogenase gene (FALDH)";
+RL   Genomics 39(2):127-135(1997).
+XX
+RN   [2]
+RP   1-1984
+RA   Compton J.C., Rogers G.R., Markova N.G., De Laurenzi V., Rizzo W.B.;
+RT   ;
+RL   Submitted (17-OCT-1996) to the EMBL/GenBank/DDBJ databases.
+RL   Laboratory of Skin Biology, NIAMS, National Institutes of Health, 6 Center
+RL   Dr., MSC 2757, Building 6/Room 429, Bethesda, MD 20892-2757, USA
+XX
+DR   SWISS-PROT; P51648; DHA4_HUMAN.
+XX
+CC   Distance between segment 1 and 2 - approx 2 kb.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1984
+FT                   /db_xref="taxon:9606"
+FT                   /organism="Homo sapiens"
+FT   misc_feature    1..1351
+FT                   /note="5' flanking sequence"
+FT                   /gene="ALDH10"
+FT   GC_signal       872..877
+FT                   /gene="ALDH10"
+FT   GC_signal       1160..1165
+FT                   /gene="ALDH10"
+FT   GC_signal       1218..1223
+FT                   /gene="ALDH10"
+FT   GC_signal       1302..1307
+FT                   /gene="ALDH10"
+FT   GC_signal       1350..1355
+FT                   /gene="ALDH10"
+FT   exon            1352..1762
+FT                   /number=1
+FT                   /gene="ALDH10"
+FT   5'UTR           1352..1609
+FT                   /gene="ALDH10"
+FT   intron          1763..>1984
+FT                   /number=1
+FT                   /gene="ALDH10"
+XX
+SQ   Sequence 1984 BP; 431 A; 531 C; 632 G; 379 T; 11 other;
+     tttaaaaggg aggagcgggc tggaggggaa agagggagaa catggtcatt actgaatcca        60
+     cacattgcac aaatagaaaa aggaacaggc aggggaatag tcaattatgt atttgcctcc       120
+     tgctgtgtaa atcagcactt cagtaagata aggtgaggac agagcagcta cctgtgggga       180
+     catttaacct tttatctgta gctatctgct tagggacata gagaaaggca gnttcttgca       240
+     tgactcagct ttttgcttaa ttttttcctt ttggcatatg aattgagctc ccacgngntt       300
+     ttggttggtt ttgggcataa gtggagagtt caattggggc cagggccccg agttattttc       360
+     ttttcacaaa tatacccttt agagttcaga ggaaaggctg ggattagagc cttctttgag       420
+     cactattcat ggattacatg agggagtngc tgtgaaaaga gggccccgga ctaagccctg       480
+     ggcacctgaa caagtgagag gtcaggaagg ggagaaaaat ccagcaaagg aaccccagag       540
+     gacccggcca gtagctaaaa agaaaagtgc ggaagagtgc agggaaatgg taaagaaaag       600
+     aaagctttcc acaagacagg accgatcagc tgagccaact gctgctgagt acagtgatga       660
+     gagctgaagt ctctcgcccg aaaggcaata aggcgggagg gggaaacctg agggcagcgg       720
+     gttctctctt gggagcggga acacggaacc atgggcagcg aggcaaatgc agcctgggga       780
+     gaagctctga gtaacggacg tgcgaggatg atgcttgtgc aagaaggaaa tgaccgctgt       840
+     cccggctccg cgggagacga accccggctt cccgccctca gggactagct ctccagggaa       900
+     ctgggacggt cagtgccggt cgaggcagct cctcgctgaa ggaaggagca ggggacaggg       960
+     aacggaatgg ggagcgctag cccccaacta cgtccatctg gccatgtttg aagagccana      1020
+     aaatggagga gggaacccct agagcgtgcc agacggagac tgctctccgt ngcagtcggg      1080
+     gcgcttccgg cagggcgccn actcccagcc gagcgccctc cgcctgctcc tccaggattc      1140
+     ctcttcgccc tttctggggc cgccccgggg cgctctcagn aggatggcca acaccttccc      1200
+     tccatcccta caccccgccg ccccctgccc gtggccgcgc tcggctcccg cactgctcac      1260
+     tccaccccct acatcccagc ccgctgccag agccggggag agggcggggg ccgcgtgggc      1320
+     gagaccgtga acagcggctg tcacgtgggc cgcccaggcc aataggggtg aggctttggg      1380
+     tccagctcag tcctcccccg gcgcctccga ctggcagtgg gactcagcgg gcgtggaggt      1440
+     cgcggctgag cgagcgagcc ctgggcgagt gaattgtggc tgtgggttga cggtggagac      1500
+     accccccgga gggaggcgga gggaagggag gcgaggcctg cacctgcatg cttcccgcct      1560
+     cccactcccc agcgcccccg gaccgtgcag ttctctgcag gaccaggcca tggagctcga      1620
+     agtccggcgg gtccgacagg cgttcctgtc cggccggtcg cgacctctgc ggtttcggct      1680
+     gcagcagctg gaggccctgc ggaggatggt gcaggagcgc gagaaggata tcctgacggc      1740
+     catcgccgcc gacctgtgca aggtancacg cgtgcggcgg ggtgtgggga aactggcccc      1800
+     cgccgngcac ttgtggactg gagtcttcgg ctgggttttg tttttgcttt tacatttngg      1860
+     attactccac cactgggagt atgatctcca gcgatacaga taaagccaaa gttcccgcag      1920
+     actttccagg tcctctagca ctcagaaggg catatgttac ctagcttctg tggttccttt      1980
+     tctg                                                                   1984
+//
+ID   HSU80601   standard; DNA; HUM; 632 BP.
+XX
+AC   U80601;
+XX
+SV   U80601.1
+XX
+DT   09-FEB-1997 (Rel. 50, Created)
+DT   04-MAR-2000 (Rel. 63, Last updated, Version 5)
+XX
+DE   Human novel unknown gene, partial 3'UTR, and VEGF-related factor
+DE   (VRF) gene, promoter region.
+XX
+KW   .
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-632
+RX   MEDLINE; 97168987.
+RA   Silins G., Grimmond S., Egerton M., Hayward N.;
+RT   "Analysis of the promoter region of the human VEGF-related factor gene";
+RL   Biochem. Biophys. Res. Commun. 230(2):413-418(1997).
+XX
+RN   [2]
+RP   1-632
+RA   Silins G.U.;
+RT   ;
+RL   Submitted (29-NOV-1996) to the EMBL/GenBank/DDBJ databases.
+RL   Queensland Institute of Medical Research, P.O., Royal Brisbane Hospital,
+RL   Herston, Queensland, 4029, Australia
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..632
+FT                   /chromosome="11"
+FT                   /db_xref="taxon:9606"
+FT                   /organism="Homo sapiens"
+FT                   /map="11q13"
+FT   3'UTR           <1..77
+FT                   /note="novel unknown gene"
+FT   polyA_signal    60..65
+FT                   /note="novel unknown gene"
+FT   promoter        80..435
+FT                   /note="minimal promoter of VRF"
+FT                   /gene="VRF"
+FT   misc_feature    317
+FT                   /note="major transcription initiation site of VRF"
+FT                   /gene="VRF"
+FT   misc_feature    333
+FT                   /note="major transcription initiation site of VRF"
+FT                   /gene="VRF"
+FT   misc_feature    335
+FT                   /note="major transcription initiation site of VRF"
+FT                   /gene="VRF"
+FT   misc_feature    342
+FT                   /note="major transcription initiation site of VRF"
+FT                   /gene="VRF"
+FT   misc_feature    392
+FT                   /note="major transcription initiation site of VRF"
+FT                   /gene="VRF"
+FT   misc_feature    400
+FT                   /note="major transcription initiation site of VRF"
+FT                   /gene="VRF"
+FT   CDS             630..>632
+FT                   /codon_start=1
+FT                   /note="Unknown"
+FT                   /gene="VRF"
+FT                   /product="VEGF-related factor"
+FT                   /protein_id="AAD14880.1"
+FT                   /translation="M"
+XX
+SQ   Sequence 632 BP; 47 A; 295 C; 224 G; 66 T; 0 other;
+     ctgcagtgcg ttcccgcttt gcttccttcc ctggacggcc cgctccccga aacgcgcgca        60
+     ataaagtgat tcgcagagct cgtgtccggc tccctcctta aggcccgacg cccccggccc       120
+     cggcctcgcc aaggggcagc gccccgccct ccgggtagtg gcggcggcga ctggggagcc       180
+     cagcctcctg ggcggtgcgt cccctttccc ctgccgcggc gggaggcggg agggggtgtg       240
+     tggaggaggc gggccccgcc gacggcctcg cccccccacc ccgccgcccc gcccccgccc       300
+     cacgggccgg tggggagcgc gtgtctgggt cacatgagcc gcctgcccgc cagcccgggc       360
+     ccagcccccc gccgcccccg ccgtccccgc cgccgctgcc cgccgccacc ggccgcccgc       420
+     ccgcccggct cctccggccg cctccgctgc gctgcgctgc gctgcctgca cccagggctc       480
+     gggagggggc cgcggaggag ccgccccccg cgcccggccc ccgcccgccg cgcccgggcc       540
+     cgcgccatgg ggctctggct gccgccgccc cccgcgccgc cgggctaggg cgatgcgggc       600
+     gcccccggcg ggcggccccg gcgggcacca tg                                     632
+//
+ID   BTCAMPPK   standard; DNA; MAM; 926 BP.
+XX
+AC   X75410;
+XX
+SV   X75410.1
+XX
+DT   13-NOV-1993 (Rel. 37, Created)
+DT   29-APR-1997 (Rel. 51, Last updated, Version 9)
+XX
+DE   B.taurus gene for cAMP-dependent protein kinase beta2 suabunit
+XX
+KW   cAMP-dependent protein kinase C beta subunit.
+XX
+OS   Bos taurus
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Cetartiodactyla; Ruminantia; Pecora;
+OC   Bovoidea; Bovidae; Bovinae; Bos.
+XX
+RN   [1]
+RA   Wiemann S., Steuer B., Alonso A., Kinzel V., Pyerin W.;
+RT   "Promoter of the gene encoding the bovine catalytic subunit of
+RT   cAMP-dependent protein kinase isoform C beta 2";
+RL   Biochim. Biophys. Acta 1309:211-220(1996).
+XX
+RN   [2]
+RC   revised by [3]
+RA   Wiemann S.;
+RT   ;
+RL   Submitted (05-NOV-1993) to the EMBL/GenBank/DDBJ databases.
+RL   S. Wiemann, EMBL, Meyerhofstr. 1, 69012 Heidelberg, FRG
+XX
+RN   [3]
+RP   1-926
+RA   Wiemann S.;
+RT   ;
+RL   Submitted (29-APR-1997) to the EMBL/GenBank/DDBJ databases.
+RL   S. Wiemann, EMBL, Meyerhofstr. 1, 69012 Heidelberg, FRG
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..926
+FT                   /chromosome="XI left arm"
+FT                   /db_xref="taxon:9913"
+FT                   /organism="Bos taurus"
+FT                   /tissue_type="heart"
+FT                   /dev_stage="adult"
+FT                   /clone_lib="vectorette PCR library"
+FT   CDS             914..>926
+FT                   /EC_number="2.7.1.37"
+FT                   /product="protein kinase"
+FT                   /protein_id="CAA53163.1"
+FT                   /translation="MAAY"
+FT   mRNA            823..>926
+FT                   /product="cbeta2 subunit of cAMP-dependent protein kinase"
+FT   mRNA            843..>926
+FT                   /product="cbeta2 subunit of cAMP-dependent protein kinase"
+FT   mRNA            844..>926
+FT                   /product="cbeta2 subunit of cAMP-dependent protein kinase"
+FT   promoter        459..864
+FT                   /gene="cbeta2 subunit of cAMP-dependent protein kinase"
+XX
+SQ   Sequence 926 BP; 277 A; 132 C; 168 G; 349 T; 0 other;
+     ctagaaatga acatatctca gtcaactaga aggatttttt ccctctcaat tgaaatttct        60
+     tgctgtgact gattttatat attttaaatc ttaatatttt ttcaaatcat agaatgtttt       120
+     aaaatgtact gctgatgtcc acttgtcagc agattatgtt tggtaagcaa agaatcccag       180
+     ggacagagga gcctagtggg ctgccgtcta tggggtcaca cagagtcgga catgactgaa       240
+     gtgacttagc agcagcagca gcaactacca tactaagttt ttgtaatttc tgtatgtatt       300
+     agatttaagt cagtgagtta gcaatgttga ggttttttaa attatagttc acattttttt       360
+     cattaaaagt tatgtttgtt ttttaatgtt ttgcagtatc tgttccatac cagttttcaa       420
+     tgaaaagtta actgtttata aggatctata aagtctatac tagtctgtat tagctgattt       480
+     gctgggggaa aaaaccatac aatcttttaa acattatatt cagagagtgg tttgaccttc       540
+     agttatttat atagggttgt aatgtatgtt taaatagttt ttccttttaa aatttttttc       600
+     agcttattat ttgtatttaa agctttatat ttaatgttct tattaacctg tgtgttagta       660
+     ttaaaacact caaacataga cccttttagg atgacattgc aagtctttaa aatcttcatc       720
+     tctagttgga cagttttaag gctcagtaat gtgctgtttt atattaacag gaaacagaac       780
+     agcagtagtg gtttgaatac tctgcaaaca ggaagtttga cacatgcata gctcttagct       840
+     tctgtgtaag tagttgttga gctccttctg gaaatatttt cagttacgat aagttaagtg       900
+     taaatacacg tgaatggcag cttaca                                            926
+//
+ID   HSDBIEX12  standard; DNA; HUM; 2692 BP.
+XX
+AC   X94563;
+XX
+SV   X94563.1
+XX
+DT   01-MAR-1996 (Rel. 47, Created)
+DT   05-AUG-1998 (Rel. 56, Last updated, Version 4)
+XX
+DE   H.sapiens dbi/acbp gene exon 1 & 2
+XX
+KW   dbi/acbp gene; diazepam-binding inhibitor/acyl-CoA-binding protein.
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RA   Swinnen J.V., Esquenet M., Rosseels J., Claessens F., Rombauts W.,
+RA   Heyns W., Verhoeven G.;
+RT   "A human gene encoding diazepam-binding inhibitor/acyl-CoA-binding
+RT   protein:transcription and hormonal regulation in the androgen-sensitive
+RT   human prostatic adenocarcinoma cell line LNCaP";
+RL   DNA Cell Biol. 15:197-208(1996).
+XX
+RN   [2]
+RP   1-2692
+RA   Swinnen J.V.;
+RT   ;
+RL   Submitted (28-DEC-1995) to the EMBL/GenBank/DDBJ databases.
+RL   J.V. Swinnen, Katholic University of Leuven, Legendo, Campus Gasthuisberg
+RL   O&N, Herestraat 49, 3000 Leuven, BELGIUM
+XX
+RN   [3]
+RA   Swinnen J.V., Alen P., Heyns W., Verhoeven G.;
+RT   "Identification of Diazepam-binding Inhibitor/Acyl-CoA-binding Protein as a
+RT   Sterol Regulatory Element-binding Protein-responsive Gene";
+RL   J. Biol. Chem. 273:19938-18844(1998).
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2692
+FT                   /db_xref="taxon:9606"
+FT                   /organism="Homo sapiens"
+FT                   /clone_lib="HL1067j (Clontech)"
+FT                   /clone="hgDBI3"
+FT   exon            1163..1259
+FT                   /evidence=EXPERIMENTAL
+FT                   /label=ex1
+FT                   /number=1
+FT   exon            1758..1843
+FT                   /evidence=EXPERIMENTAL
+FT                   /label=ext2
+FT                   /note="exon 1b"
+FT                   /note="used only in type 2 transcripts"
+FT   exon            2386..2503
+FT                   /evidence=EXPERIMENTAL
+FT                   /label=ex2
+FT                   /number=2
+XX
+SQ   Sequence 2692 BP; 532 A; 827 C; 730 G; 603 T; 0 other;
+     tgtgtaacaa tctcgcaaag acgttcccct ccgtctcctc atcctctttt caaacccttt        60
+     tacgatttcc catctcactc agcatgacag tcaaagtccc tgtgatggcc aacttctgca       120
+     tcacctagcc agtctgccac cgccaaaact ctccagcctc atctttctac tcttcccctg       180
+     gttccttgcc cacgccttta cacttgttct ctgcttggaa tcttccctcc cctccttgag       240
+     gaactttctc aaatgtcacc ttccctcaat actccccctc ctccatttaa aactataaac       300
+     ttccaactct ctaagcccct aaagtactct atatttaact tattgtataa actactgtcc       360
+     ctacttgtaa gttccaagat tgcagggatt cacccgcttt gttcactgct gtctgccaag       420
+     gtctagaaca gtgcaagtta cccaacagga gttcaataaa cagccattca tttaacaaat       480
+     atttgctgag cacttcgtcc cgtccaagtt tgttaaatca agacaaataa gacaccgtcc       540
+     ctgcctttaa cgcaccagat ggagaaatgc accacagaca taaatgtgca atacaggcct       600
+     gacactacgg ccacaagcaa gtcaaagaac gtgccaaaag ttcagaggaa gaagcctcgg       660
+     cttcgccttt cgggagacca gtccagcttt ccaccatcac gctgctcatc agggaccatc       720
+     tccgggggtc tcctctagac cccaagggag gagcgggtcc cgcccgccat tcccaggtct       780
+     cagagtttac ttgtccagag atgcaacttc cggcctcttc aggccgggca agatttaagg       840
+     aaagaaaaga aacataagga cctccgttct tcggtctccg tcccctcccc ttcccccgcg       900
+     tgccgtcccc acaacgggcc aggactgaac ccaactctcg accaactccc ggcagcaaaa       960
+     ctaagcaccc tacttccgtt gtccccacct gttcccggcg tccccttcgg ctactcccgg      1020
+     cgtttgcgca agcggtccca cgtgggctcg ggcggggcta gcgccgcggc gggggctggg      1080
+     cacgccccta gcgcatagct ggcttctgat tggctttccg gtgctcgccc gagcagggtt      1140
+     ggggcgagtg gaccgcgcct ctaaaggcgc ttgccagtgc aatctgggcg atcgcttcct      1200
+     ggtcctcgcc tcctccgctg tctccctgga gttcttgcaa gtcggccagg atgtctcagg      1260
+     tacagcgcgt gcacagccag gctgcgaagg tgcagcgggc gggaggcccg ttgggggctc      1320
+     agccggctgc cagaagctct cgggctcttt ccttccgtgc ccctcacttg ctcatgggcc      1380
+     catgcctagc cctgattcgt tggacagagc cttgtgagcg ggattttccg tttggggatt      1440
+     tctaaatctg ctgcccaccc cgcaactgcc ggaaagttgc ccatggggtg gacttcgctg      1500
+     tgtagcggga gaggggtggg agtcgagggt gcttgatgga gagatggggg aaggggttgc      1560
+     acggattgga ggagcgagga gactcagtcc ccatcccgaa gcacagggca ggacgtcgcg      1620
+     gcggagtggg gaagcgagga gtccgtggcc gggagcttgg aggtcagggg aagtacgggg      1680
+     ccggctgctc agagtgcggg acgaggagaa tcgcggcccg gggagaggtg acccaggggc      1740
+     ccctcccttc tctccagtgt agacccttgt ctgagaccga gctatgtggg gcgacctctg      1800
+     gctcctcccg cctgcctctg ccaatccggg cactgggaca gaggtcggtg ttgaacgcgc      1860
+     gggccccagg gggagggagg ggaccaacgg gctccggcgc tgacaccgcg gcactcatgc      1920
+     cctgtcccct ttcagctgtt tccagcatac tgtgccccgt ctgtcctcag gccagggctt      1980
+     cgctgcagcc ccggccactc cctagtgcct ggcccggtgg tggccaggca gttggccgcg      2040
+     ctgcttctcc cgcagagggg acccccactg gggcgaaggc ttggcctgcc ctcttcactg      2100
+     ctgtatttcc agacctgatg cctgcgtttg tgagagctct ggatatatgg ttttcgattg      2160
+     aatgagtgaa ctggaggggc ttccccttct tgtgttgctg aatctttcta gctgccctgt      2220
+     tggggcaggg aggggcagac acacttcagg ggctgcattg cccgaagggt gccacctttc      2280
+     ccacctctcc atccccgtaa ctgggctgtc atcaggccac agtaggattc ttaccctctc      2340
+     ccacccagag gaggccctca atcctctcct ctcccttcca tttaggctga gtttgagaaa      2400
+     gctgcagagg aggttaggca ccttaagacc aagccatcgg atgaggagat gctgttcatc      2460
+     tatggccact acaaacaagc aactgtgggc gacataaata caggtatgca gagcgggggt      2520
+     tggaagggca tctgctcatc aaagcaggct cagcagccca gactggaagt ccctgggaac      2580
+     ttcactctca aactgcctga ggccctactc ttcaggtggg gtatggtgat ggttcctgag      2640
+     gtggaaaaga ccatgttccg gattctcagt gtctccagta gtaacagaat tc              2692
+//
+ID   HSACTHPRO  standard; DNA; HUM; 1066 BP.
+XX
+AC   Y10100;
+XX
+SV   Y10100.1
+XX
+DT   17-DEC-1996 (Rel. 50, Created)
+DT   21-JAN-1997 (Rel. 50, Last updated, Version 5)
+XX
+DE   H.sapiens ACTH receptor promoter & exon 1
+XX
+KW   ACTH receptor; promoter.
+XX
+OS   Homo sapiens (human)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+XX
+RN   [1]
+RP   1-1066
+RA   Naville D.;
+RT   ;
+RL   Submitted (10-DEC-1996) to the EMBL/GenBank/DDBJ databases.
+RL   D. Naville, INSERM-INRA U418, Hopital Debrousse, 29 rue Soeur Bouvier, F- 
+RL   69322 LYON cedex 05, FRANCE
+XX
+RN   [2]
+RA   Naville D., Jaillard C., Barjhoux L., Durand P., Begeot M.;
+RT   "Genomic structure and promoter characterization of the human ACTH receptor
+RT   gene";
+RL   Biochem. Biophys. Res. Commun. 230:7-12(1997).
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1066
+FT                   /chromosome="18"
+FT                   /db_xref="taxon:9606"
+FT                   /organism="Homo sapiens"
+FT                   /map="p11.2"
+FT   promoter        <1..1017
+FT                   /note="ACTH receptor promoter"
+FT   exon            1018..>1066
+FT                   /product="ACTH receptor"
+XX
+SQ   Sequence 1066 BP; 287 A; 257 C; 210 G; 312 T; 0 other;
+     ctgcagggca tgttgcggag gcacacacct actcagaaac agtcgaagtc tgggatgatc        60
+     ctgggtccat gagttcctgg ggacaacacg ctttgcctca gtgacaggcc aggaaaagcc       120
+     actttataaa attgtgttta cccgcctggc aaattcaact caggcctctc tctttgggtc       180
+     ttttccagac cacccacgtg tgaacacttt ttagcttggg gcggaacgtc acatttcaga       240
+     aacagccact ggtttggcac cagccccaaa aacccaggac catctggaaa cttggcccaa       300
+     ttccacactt caacattcct gttactgtga ctgacaccaa cagtagccct tccctgcagg       360
+     ccccggcagg cagaaaacac acagcattgc accctaaaat ggaagaattt tgctttgaat       420
+     gatggctctt atctatggcg gtttctgtga agtttttgga cggagaagca ttggcagaac       480
+     acagggtttt tttcttgtct ggacccatgc gtcatatgtg cacttgagca cacagttccc       540
+     tcactctcat tgtttagtct tgtgaaatag ggataatggg gctattccct tcttcttaat       600
+     gaaactaatg agccaaatat ttgcaagata tatcaagaag tttgctagaa gttttaaaac       660
+     aaattcttcc aaaaccattt tctcaaaaac ctgatttatt taattcctta gttctttttg       720
+     gaaataaatg caactctaaa gtggcattta aaaagagcaa gatgacaatt ccataatctg       780
+     ctagaaacat tgtcataaac attggaagta accttgacta gctgagctca tggaaattat       840
+     gtcttcatct gcctgtgtct ttccatttct ctaacttcac attaccagaa atgcacagtt       900
+     catgtgggat gacatttatt caaggtaatg ataacaatct agctgtatct ccggtgatgc       960
+     atgtgttccg gcccttcccg gcccaaggtc cacttgcttg cttttctctc cgagctcatt      1020
+     ccttctcatt cattttgccc agaaagttcc tgcttcagag ctgaag                     1066
+//
+ID   MMG67PRO   standard; DNA; ROD; 1352 BP.
+XX
+AC   Z49978;
+XX
+SV   Z49978.1
+XX
+DT   06-JAN-1996 (Rel. 46, Created)
+DT   06-JAN-1996 (Rel. 46, Last updated, Version 2)
+XX
+DE   M.musculus DNA for GAD67 gene promotor sequence.
+XX
+KW   .
+XX
+OS   Mus musculus (house mouse)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Teleostomi;
+OC   Euteleostomi; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae; Murinae;
+OC   Mus.
+XX
+RN   [1]
+RP   1-1352
+RA   Szabo G., Kortvely E., Urban Z., Greenspan R., Katarova Z.;
+RT   "Genomic Organization of the Mouse Glutamic Acid Decarboxylase Gene Coding
+RT   for the 67kDa Isoform and Its Multiple Promoter Region";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-1352
+RA   Szabo G.;
+RT   ;
+RL   Submitted (29-JUN-1995) to the EMBL/GenBank/DDBJ databases.
+RL   Szabo G., Biological Research Center, Biochemistry, Temesvari krt. 62.,
+RL   Szeged, Hungary, 6701
+XX
+DR   MGD; MGI:95632; Gad1.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1352
+FT                   /db_xref="taxon:10090"
+FT                   /organism="Mus musculus"
+FT                   /strain="BALB/c"
+FT                   /dev_stage="adult"
+FT   CAAT_signal     794..799
+FT   CAAT_signal     941..946
+FT   GC_signal       1078..1083
+FT   GC_signal       1094..1099
+FT   GC_signal       1113..1118
+FT   TATA_signal     813..816
+FT   TATA_signal     979..983
+XX
+SQ   Sequence 1352 BP; 344 A; 385 C; 364 G; 259 T; 0 other;
+     ccccaaaaat ccagtttgtt ttgcccctaa aggatgagaa acggagggag aggaaaaaga        60
+     aagccaggag gtagcggcga gaaggctaga agaggccggc cgttacagag cctttcgggc       120
+     atctccaggt gttgtctagg gcgcaccagg gaaaaggccg ccagcacggg gtctctgtgt       180
+     gtttggcgcc ctctggtgga aattttttcc aataccgcct ttttatggtg ggggacttca       240
+     ccccgctcag taatgtgctt aaatattgcc aagagagaat cattgaacag cgtgaaactg       300
+     aaaagaagcg aggagagcgg gccaagacac ggagtgccgt cctggcttcc cggagccacc       360
+     ctccatgctc tgctgcccca ggcgtgtgga gcggcactcg tgcgtgttat taaccttcag       420
+     acatgatcaa ttacgaagat ttcttttacc cctctccagg gagagggctc agagaaaggg       480
+     aaatagaccc cttgcctctt gtggtgccag gtagctgtgt tcgaacgagg tagtgtggag       540
+     atggactgga agaagaaacg ggagtgcaga aactccaggg tctgtctggg tggtcccctc       600
+     atctccgctt tgcctgtaca gccatactgg ctcagtagag cgctccctag gacaccaccc       660
+     agagaaaacc ttctggaatc gccaatccag gacaaccaca ggagattgat caaggcaaag       720
+     caaatattgt agtcttctcc aagatacggg atggagggct aagaagaggg gaaggaagaa       780
+     tcacccagtg agacaaaatt cttcgtagga attatatttt cccttgccct cacccaacat       840
+     cgcctatctc aaaaataatt taaaaacaaa aaacaaacaa acaaacaaaa aacagagcgt       900
+     gctgagtgca ttctggatta ctcataggac tttgtcacac acaccctcct ttctggtcgc       960
+     aaacccgtga gctggattta taatcgccct acaaagctcc agaggcagtc agacacctgc      1020
+     aaaggagccc caggctccgc ggacgagctg cccccgcgag caacggcctc gtgattcccc      1080
+     gcccgacggg gtccccgcct ccccactccg cccccgcctc ccccaagccc agcggccgcc      1140
+     tctccggatc tctcccttct tcaggctctc cgtgccggac cagggatcgt gcaagcaagg      1200
+     aagcagccct ggggtgacac ccagcacgta ctcctgtgac agagccgagc ccagcccagc      1260
+     cccgggacgc ttcgcagagg agtcgcggga gggtccagct cgctgtcgct gaaccgaggt      1320
+     gggtaaatac cggatcaccc ggacttgcca ga                                    1352
+//
+ID   AF223952   standard; DNA; ROD; 7502 BP.
+XX
+AC   AF223952;
+XX
+SV   AF223952.1
+XX
+DT   25-JUL-2000 (Rel. 64, Created)
+DT   25-JUL-2000 (Rel. 64, Last updated, Version 1)
+XX
+DE   Mus musculus PER1 (Per1) gene, partial cds, alternatively spliced.
+XX
+KW   .
+XX
+OS   Mus musculus (house mouse)
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Rodentia; Sciurognathi; Muridae; Murinae; Mus.
+XX
+RN   [1]
+RP   1-7502
+RA   Yamaguchi S., Mitsui S., Miyake S., Yan L., Onishi H., Yagita K.,
+RA   Suzuki M., Shibata S., Kobayashi M., Okamura H.;
+RT   "The 5' upstream region of mPer1 gene contains two promoters and is
+RT   responsible for circadian oscillation";
+RL   Curr. Biol. 10(14):873-876(2000).
+XX
+RN   [2]
+RP   1-7502
+RA   Yamaguchi S., Mitsui S., Okamura H.;
+RT   ;
+RL   Submitted (12-JAN-2000) to the EMBL/GenBank/DDBJ databases.
+RL   Anatomy and Brain Science, Kobe University School of Medicine,
+RL   Kusunoki-cho, Chuo-ku, Kobe, Hyogo 650-0017, Japan
+XX
+DR   SPTREMBL; Q9JII8; Q9JII8.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..7502
+FT                   /db_xref="taxon:10090"
+FT                   /organism="Mus musculus"
+FT                   /strain="129/Sv"
+FT                   /map="11B"
+FT   mRNA            join(1831..1900,7095..>7502)
+FT                   /note="alternatively spliced"
+FT                   /gene="Per1"
+FT                   /product="PER1A"
+FT   exon            1831..1900
+FT                   /number=1A
+FT                   /gene="Per1"
+FT   exon            5550..5594
+FT                   /number=1B
+FT                   /gene="Per1"
+FT   mRNA            join(5550..5594,7095..>7502)
+FT                   /note="alternatively spliced"
+FT                   /gene="Per1"
+FT                   /product="PER1B"
+FT   exon            7095..7502
+FT                   /number=2
+FT                   /gene="Per1"
+FT   CDS             7228..>7502
+FT                   /codon_start=1
+FT                   /db_xref="SPTREMBL:Q9JII8"
+FT                   /gene="Per1"
+FT                   /product="PER1"
+FT                   /protein_id="AAF87329.1"
+FT                   /translation="MSGPLEGADGGGDPRPGEPFCPGGVPSPGAPQHRPCPGPSLADDT
+FT                   DANSNGSSGNESNGPESRGASQRSSHSSSSGNGKDSALLETTESSK"
+XX
+SQ   Sequence 7502 BP; 1700 A; 1895 C; 2023 G; 1884 T; 0 other;
+     gctagccaag aaataagggc tattagagag ctgggggcga gggtggggat ggtgcatact        60
+     tttaagccta gtatttgggt ggtagtggca tatggatctc tgtgaggtta aggtcagcct       120
+     ggtatacaaa gagtccagaa cagccaggac tatgttacac aaaggaatcc tgtcttgaga       180
+     aaaaaaaaat tagagctact tttttttttt ttggtttctc tgtgcagtcc tggctgtctt       240
+     ggaactcact ctgtagacca gagctggcct cgaactcaga aatctgcctg cctctgcctt       300
+     ccaagtgctg ggattaaagt cgtgcgccac catgcccagc ttagaagtac ttttaaaaat       360
+     agattttcag gggctggaga gatggctcag cagttaagag cactgactgc tcttccaaag       420
+     gtgctgaatt caattcccag caatcacatg gtgactcaca accatctaga aatggatccg       480
+     atgccctctt ctggtgtgtc tgaagacagc tacaatgtac tcatacaaat cttaaaaaca       540
+     aacaaacaaa aattagattt tcaaagttgg gcagagccag gtggattggc aatctccggg       600
+     tttgggggca gccaggtcta cagagtgagt tctagaacag ccagagcaac acagagaaac       660
+     cctgtctggg ccgggcagtg ggggcacacg cctttaatcc cagcagaggc aggtggattt       720
+     ctgagttcga ggccagccta gtctacagag tgagttccag gacagccagg gctacacaga       780
+     gaagccctgt ctcgaagaaa aaagaaaaaa agaagaaaga aacctgtctg gaatacaccc       840
+     cccgccccgc aaaagggtgt cattggaaat tatttcagag gttctaaagt actgaggtgt       900
+     cttacagcct atcctaaatt ctacctttat ggagagttta aataaggctt tttgcattta       960
+     attcttggaa ttacttctag gtttaatgtc tccataggcc ttacaatacc aagctacctt      1020
+     tatggtgtca gagacctggg ttcagacttt agctctttta tcaatataca taatctaatt      1080
+     ccgacagatt acgtaacctc tcagcctctt ttgtgaggtt atgggtagtg agccggcctt      1140
+     cttgggagtc tgcaagaagg ggctggccag ccaggcccaa agaaaataaa taggaggcga      1200
+     ctgtcatttc accgtcattg tcatgcaatc taatgatatc ttcagtgtag tgctcagatt      1260
+     tttaagcttt ggggatcact agagacacaa agctcaggca ccagaaacct cttgtaatgc      1320
+     cagagtctcc aaagtatgcc cactacgcca tagcctgtca gatctacgcc tgcgtacaag      1380
+     tcgctcggca cgcctgcgca gacttcgcag tattgggtaa gtgtcgtcaa ggaaaatccc      1440
+     cagcttctgg gtaaacaagt tgccgcgtga gccagcctgc acgtgttccc tacagctctg      1500
+     agccctctca gcctatgaga aagtttttag ggcagggctg gcatttgcgt cactgattta      1560
+     ggcagggcgg ggttgtctct gcagccagta aaaatgttga gagtgggtgg gggtgtggct      1620
+     tccggtcaga tgtccaatca acgagttggg gcgcccccgc cctcacgtgg ctctatcact      1680
+     accggttgtc atattgtcca atgggaaagt gactaagttc tgaaatgcca atggttgctt      1740
+     tacaagggct tgccggctgc acgcggagcg gggcatgggt tggcgtctct gagccaataa      1800
+     gctagggagg cgtgacagaa cgggcggtgg gagggcctcg aggattctgt ggaggagccc      1860
+     caggagtgaa gaaatttgga gtctacgtgc gctcggaact gtgagtaacc ccttactctg      1920
+     gagccgtcga acttgtgttt ttggggaggt gcgctcgacc aaaaggggtg tcagtggcgt      1980
+     ggtgtgtgtg agggatcatg caaatgtgaa ttagctgcag aacaaatgcc taatggttgt      2040
+     ggagaaagag accaaaagtt cagctctagg ggaacatgaa tgagagttac cagcaacaga      2100
+     tctctcacca ctctagggtc cctggacact aatgcctagc gcagggtgct cagaagcccc      2160
+     tagccatccg agggagccga agcgcctgcg atatgacccc tgagagctgg ttatggtttg      2220
+     gggtaggctc cctaaacact tggaagagac cgccctggta gggcgggcgg gaacgtagta      2280
+     tggtgatctg agaaaggctg gtgtgttgat ttgaccgaaa ggctgtctca tcacgactat      2340
+     aggtggtatc gtggcctcag ggacatgctc gaaaatagga atgggctagt aatttgttgg      2400
+     attctgaaag ggaggatagg gtggagggtt tctgtacacc gtttcgtcta ctcttcttaa      2460
+     gctgctagag gtggagttac caaaggactg ctctggtgtc tagacggtcg gtcgggcaga      2520
+     ggtgagggag gagagggagg aagtgagatt cttaggaaag cagtgtgcct gcaggcttct      2580
+     cgagtgatct cgggttttga gcatagaaac gaaccatgat ggtgcgcacg gagcacaaac      2640
+     aatgccttga gatcaggcta aggggagaga aggaaaagga attggatata gcctgtattc      2700
+     taggcaccaa gcttagaaac aggggaatac tccccccgca gtcctacggt gctggaatgc      2760
+     agtgtagagg tttggtaaca ctttacaggg tccctaagcc agcaggacaa gccatcatta      2820
+     gggcttgaac cttgggctcc attattagga agctgagaat gaagcagaca attaaggcaa      2880
+     gtttagtaac tacctactaa gtcttagttt ttccttatga catcagggtg atacttacct      2940
+     tcagttgttt gggggcttac atgagaacaa tatgtgtaaa gttcttagca cagcgcttgg      3000
+     atcatttaca aacacaaact ataaggtaac aaaagaatag cgatagagtt ggggatttat      3060
+     gtgcatgctg tggccagaga gcaatctcca tcttctgttt ttctgcaagt tttgatgact      3120
+     cctcttttcc ctctccctga tttttttttt tttttttttt ttggtcttcg ggcaccagcc      3180
+     caaattccat cattcctccc tgtattcctc tcccaagatc tgggccccag actgaggcaa      3240
+     tttgctgtgt cccagtttga cttcatctta aatccattct ctctgaccac cccccccccc      3300
+     acctattctg tgctgtaata gtaactagaa agtctgcctc taaagagggg ccccagggaa      3360
+     ggagcaaagg tgcgttctct ctcagaacct aggcctccaa tttacccgcc ctagctcttt      3420
+     ggtacctggc cagcaaccgt gtacagtctg gtgacgggga aaagccaatg ccaggagttt      3480
+     taagacccag ctgagggagg gtaaaagtag gtcccgcaaa gagaaccagg catgggggcg      3540
+     ggggaggggg acccccttcc tcctaactgt ctctccagga atttttggct tttgtacagg      3600
+     accgctgtcg ttgggttggg ggaggcgcca aggctgtgtg catgtcctgg gccatcagcc      3660
+     aagagaacac gatgttccct agtgcgctgg ccgccgccct ctggggctgg ccgcctccca      3720
+     aaccgctgcc tctccagcct ccctgcccca cattccccag ctgcctcgcc ccgcctcctg      3780
+     cctccgcttt gacgtcacct ccctctcctg cccccgcttc tccattgacg gcagcagagc      3840
+     ctggttactg tgggggactg atgaggcccg acagcctggg ccttgggatc aggttggggc      3900
+     tgtttggagt gctgaaacct tttgtctgtg taaatgacag atagggaagt gggcgagcaa      3960
+     tggctgcttg ggtcagagga atcacaccta aatccttgag agctgtggaa agagaaaggg      4020
+     gtctggaaaa aaaaaaagga cagcacacgg tcacaacgca gtacgagggg gcaggagagc      4080
+     agcatcattt tcaggaggag gaagctgagc actcagcctc ccgtgtcttt tgttttctgt      4140
+     gtttccctgc ttctgttttt ctgggttatt ttataacagg tctgtgtccc agcatttcta      4200
+     tagaaccttg tctcgccgcc tcctctaagg gaaacaccat tgttaaggaa agctttagcc      4260
+     acgtgacagt gaggggcgtg cacttaacag ctgattatgt cagccgctgc gtgttggcct      4320
+     cttcacttgc cacctacgtt tgcagggaag cctgagaact actcagccca ggcctaggga      4380
+     aggggactct gtcactgtag ctctcctgga cccagactgg catgttgtcc ccccctcccc      4440
+     aaaatcgagt ctctattctc tttttatgaa tcaatgctct acttttcttt tgaaaacata      4500
+     atttgttgcc tcctctcctg aggctctctc tcccctacct atccttaata gaaacagagc      4560
+     catcctgttt accgagcatc tactgtcagt cctgacgctg agacgtactt accttactgc      4620
+     tgagaataca gtaaatgaga cagatgggct tgctgctggg ttcatgaacc ttggcttttg      4680
+     tattctaagc agcaggaata aaaagcccaa taaaaagccc ttgccaccca gccacccatc      4740
+     ctttttctgc ctactgctgc aactgccctc tctgctgccc cttttgtagt actggcttcc      4800
+     tggtccccac ttttggggca gccctaaatg tgggtggctg catcctctgc agaggcagca      4860
+     ctagtcacca agtaggcttc ctggagacct tttctctgat tggctagtga agcacctgct      4920
+     tttgtttcct ttcacagtag ccattggctt tccctgtcct ttccgtttgt ccgtatcctt      4980
+     ccatcaccca ctcacccctt aacgacacgt gggccctcaa ttgcccttct ctcaggatct      5040
+     gaagggtcag aggaaagggt tggattcttt ataacaaggc tggggagagg ccagggaatg      5100
+     tcagtctagg tttttctctc tcccacttcc cttgggtagc agacatttca ttcacccggc      5160
+     accaggacag gtgtcttgtt ctgccaagct ggtcagttta ggaagtaggt ttctcttgag      5220
+     cacttcctgt ggcccaggta tcctccctga aaaggggtag tttccctccc tcacttccct      5280
+     ttcattattg acggtgtgag acatcctgat cgcattggct gactgagcgg tgtctgaggc      5340
+     ccttcagccc agcaccagca cccaagtcca cgtgcaggga tgtgtgtgac acagccctga      5400
+     cctcagtggg ggccagtagc caatcagatg ccaggaagag atccttagcc aaccgggggc      5460
+     ggggcctgcg gctcttcggg cagaaggcca atgaggggca gggcctggca ttatgcaacc      5520
+     cgcctcccag cctcgcggag cttctgggtt gcgggccgaa acggcaagcg gatggagggc      5580
+     gctcgaacgg ccaggtaggg atccctgctg caatcctagg gttagtcttt gtcccggagc      5640
+     ttggccgcca ctacttccaa cgtgatgggt cgctttcagc tctcagagag caaaacaata      5700
+     atctgccttt cctgtcacta tccacccttc cccgcccctg ggccctaggt gttcaactca      5760
+     acccgtcacg ggttgtctgc gtttgttatt cgttcaccta atctcctcct ctgctcctcc      5820
+     agagcagcca tcctgaacct aagagacctt tagcgaacac gaccccttta cacattgctc      5880
+     gacactcggg agtccatggg tttgccctag cccaaagacc cccttcaggc ttctgcgctc      5940
+     cctgtcttcc tccctccaat tcctggcctc gtgccggtcg tgatgtcaac cgcttcaggc      6000
+     tggaacatcc tgttctcagc gctagttctt gctgttggcc acagccttcc ttcccttttc      6060
+     tcctggcgct cagaaaatac ttgggatggg ggtgtggtta gacagggagt agaggaaaaa      6120
+     ctatatatgc tggttgttgt gtgtccccta tctatgtggt agtagggtta actagaaaag      6180
+     taagggacga aggaagatgc ctgagtcgtt gcctatggca agtggtaact ccagtcctgg      6240
+     tgtttgggag tgggcagggg cttgagaaag aaaagcagtg tcttgatcag aataatgttc      6300
+     gaggcaagag cgaggatggg ggcgtttcca caaagagcag aggccgagtg gggaagctag      6360
+     gacttgctcc tggagttcct ctagtttgtt actcttcaca tggctcctag gctctttggg      6420
+     ccctgggaat ttgttatggt gggtgttctt ctcctccccg ctgccctgaa ccttgttagc      6480
+     cagtatgagg gtgtgttggc cagtatagga ctgggtctgt ttcccacttc cacgaagatg      6540
+     gggattgggg gaggagtcgt tcctgccctc ctgtggtccc tccagcaacc gctgagctca      6600
+     gcggctgacg tcggtttccc tggcgaccgc ggctgtggcg gaagcgcgtg gtggggccag      6660
+     gcacatcggc gcgcatgtgc agcgggggtg gcaccgcccc cggataaaat tagcccggaa      6720
+     gcctaaatat aggaggcgat cagctcaccc cctgctccga ggcctcagag tcccagacca      6780
+     ggtggggacc tgatgagaat ttgggcatag gaaacctgca agctttgacc ctcagctact      6840
+     gttctagtcg attgttcagg ctgtactcat tccacactgg caaggggtgt aagagatggc      6900
+     ctacgagagc tgcctttcta cctgtggtat ccttaggtcc ccctaaggaa atagaacata      6960
+     tttctattgc aagccccagg cctgagtcac aacagtgagg ggcaggcaga ggaaggactg      7020
+     ggtgtagcca gcagatgctg tggggttaat agctcagctt ttgctaaaca ttcctttttg      7080
+     gtttcttttt ctaggtgtcg tgattaaatt agtcagccct cagagacagg cgtcctacct      7140
+     cctttatcca gacctcaaaa gccccgttgt gcacccgtgg tggcttcttc accttccctg      7200
+     tttcgtcctc cactgtatgg cccagacatg agtggtcccc tagaaggggc cgatggggga      7260
+     ggagacccca ggcccggaga acctttttgt cctggaggag tcccatcccc tggggccccg      7320
+     cagcaccggc cttgtccagg ccccagcctg gctgatgaca ctgatgcaaa cagcaatggc      7380
+     tcaagtggca atgagtccaa cggacccgag tccaggggcg catctcagcg gagttctcat      7440
+     agttcctctt ctggcaatgg caaggactca gctctgctgg agaccactga gagcagcaag      7500
+     ag                                                                     7502
+//

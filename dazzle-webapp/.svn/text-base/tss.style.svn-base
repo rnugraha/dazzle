@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DASSTYLE>
+  <STYLESHEET>
+    <CATEGORY id="default">
+      <TYPE id="TSS">
+        <GLYPH>
+	  <TICK>
+	    <HEIGHT>25</HEIGHT>
+	    <COLOR>blue</COLOR>
+	    <OUTLINECOLOR>black</OUTLINECOLOR>
+	  </TICK>
+	</GLYPH>
+      </TYPE>
+    </CATEGORY>
+  </STYLESHEET>
+</DASSTYLE>

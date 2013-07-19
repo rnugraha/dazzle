@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/3475/dazzle/trunk/src/org/biojava/servlets/dazzle
+END
+GFFFeaturesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/3117/dazzle/trunk/src/org/biojava/servlets/dazzle/GFFFeaturesHandler.java
+END
+Segment.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/419/dazzle/trunk/src/org/biojava/servlets/dazzle/Segment.java
+END
+SequenceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/1340/dazzle/trunk/src/org/biojava/servlets/dazzle/SequenceHandler.java
+END
+DazzleResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/2571/dazzle/trunk/src/org/biojava/servlets/dazzle/DazzleResponse.java
+END
+DazzleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/1340/dazzle/trunk/src/org/biojava/servlets/dazzle/DazzleException.java
+END
+DazzleTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/2629/dazzle/trunk/src/org/biojava/servlets/dazzle/DazzleTools.java
+END
+DASStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/2075/dazzle/trunk/src/org/biojava/servlets/dazzle/DASStatus.java
+END
+AbstractDazzleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/1340/dazzle/trunk/src/org/biojava/servlets/dazzle/AbstractDazzleHandler.java
+END
+FeaturesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/3470/dazzle/trunk/src/org/biojava/servlets/dazzle/FeaturesHandler.java
+END
+AlignmentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/3475/dazzle/trunk/src/org/biojava/servlets/dazzle/AlignmentHandler.java
+END
+InteractionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/2132/dazzle/trunk/src/org/biojava/servlets/dazzle/InteractionHandler.java
+END
+SangerProxyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/3116/dazzle/trunk/src/org/biojava/servlets/dazzle/SangerProxyFilter.java
+END
+HydraGFFFeaturesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/2091/dazzle/trunk/src/org/biojava/servlets/dazzle/HydraGFFFeaturesHandler.java
+END
+DazzleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/1340/dazzle/trunk/src/org/biojava/servlets/dazzle/DazzleHandler.java
+END
+StylesheetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/1340/dazzle/trunk/src/org/biojava/servlets/dazzle/StylesheetHandler.java
+END
+LinkHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/1340/dazzle/trunk/src/org/biojava/servlets/dazzle/LinkHandler.java
+END
+EntryPointsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/2077/dazzle/trunk/src/org/biojava/servlets/dazzle/EntryPointsHandler.java
+END
+DazzleServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/3475/dazzle/trunk/src/org/biojava/servlets/dazzle/DazzleServlet.java
+END
+DASQueryStringTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/2089/dazzle/trunk/src/org/biojava/servlets/dazzle/DASQueryStringTranslator.java
+END
+StructureHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/1995/dazzle/trunk/src/org/biojava/servlets/dazzle/StructureHandler.java
+END

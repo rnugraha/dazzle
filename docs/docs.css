@@ -1,0 +1,25 @@
+body { background-image: url(background.png) }
+
+pre { background-color: darkslategray;
+       color: wheat;
+       border-width: 3;
+       padding: 5;
+       margin-left: 7%;
+       margin-right: 7%;
+       border-color: red;
+       border-style: solid;
+       font-family: monospace;
+       white-space: pre}
+
+img { margin-left: auto;
+      margin-right: auto;
+      float: none;
+      clear: both}
+
+p.figure { margin-left: auto;
+           margin-right: auto;
+           text-align: center;
+           font-family: sans-serif}
+
+div.caption {text-align: center;
+           font-family: sans-serif}

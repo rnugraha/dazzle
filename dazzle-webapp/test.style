@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DASSTYLE>
+  <STYLESHEET>
+    <CATEGORY id="default">
+      <TYPE id="default">
+        <GLYPH>
+	  <ARROW>
+	    <HEIGHT>10</HEIGHT>
+	    <COLOR>yellow</COLOR>
+	    <PARALLEL>yes</PARALLEL>
+	  </ARROW>
+	</GLYPH>
+      </TYPE>
+    </CATEGORY>
+  </STYLESHEET>
+</DASSTYLE>

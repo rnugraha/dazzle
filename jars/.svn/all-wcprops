@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/repos/!svn/ver/2083/dazzle/trunk/jars
+END
+biojava.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/repos/!svn/ver/2083/dazzle/trunk/jars/biojava.jar
+END
+dasmi-model.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/2083/dazzle/trunk/jars/dasmi-model.jar
+END
+servlet-api-2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/2083/dazzle/trunk/jars/servlet-api-2.3.jar
+END
+bytecode.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/repos/!svn/ver/2083/dazzle/trunk/jars/bytecode.jar
+END

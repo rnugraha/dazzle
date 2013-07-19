@@ -1,0 +1,312 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link xmlns:html="http://www.w3.org/1999/xhtml" href="docs.css" type="text/css" rel="stylesheet">
+  <title>Dazzle: Deployment guide</title>
+</head>
+
+<body>
+<h1>Deploying the Dazzle servlet</h1>
+
+<p>
+This document describes the steps required to install and start
+the Dazzle server.  Some knowledge of the DAS system is assumed:
+read the <a href="http://www.biodas.org/documents/spec.html">specification</a>
+for more information.
+</p>
+
+<p>
+These instructions apply to release 1.00 of Dazzle.
+</p>
+
+<h2>Prerequisites</h2>
+
+<p>
+Dazzle requires a runtime environment for the Java 2 platform,
+standard edition (J2SE) version 1.4 or later.
+It also requires a servlet container complying with the servlets
+2.3 specification (a servlet container is a Java-aware web
+server).  Dazzle was developed using the
+<a href="http://jakarta.apache.org/">Tomcat 4.0</a> servlet container,
+and this is recommended.  It has also been tested successfully using
+<a href="http://www.caucho.com/">Resin</a>.
+</p>
+
+<h2>The webapp structure</h2>
+
+<p>
+Servlet containers work with bundles of code and data known
+as <em>webapps</em>.  To deploy Dazzle, you must create a webapp
+with a well-defined structure.  The required files and directories
+are shown below:
+</p>
+
+<pre>
+WEB-INF/
+    web.xml                       Deployment descriptor, used by the servlet container.
+    lib/
+        biojava.jar               BioJava library
+        bytecode.jar              (Required for BioJava)
+        dazzle.jar                DazzleServer code
+    classes/
+dazzlecfg.xml                     Data-sources configuration file
+stylesheet.xml                    Default DAS stylesheet
+welcome.html                      Welcome message, included front page
+</pre>
+
+<p>
+You can add your own data files to this structure, either at the
+top level or in your own directories.  If you are using a datasource
+plugin which isn't included in the core Dazzle package, you can
+either package it as a JAR file (if it isn't already) and place it
+in the <code>WEB-INF/lib</code> directory, or place raw .class files
+in the <code>WEB-INF/classes</code> directory.
+</p>
+
+<p>
+You can download a complete `skeleton' webapp with all these files in
+place from the Dazzle homepage.  In this case, you just need to unpack
+the skeleton, configure your datasources, then follow the deployment
+instructions below.  Alternatively, you can download the source and
+compile your own.  If so, you will need the following:
+</p>
+
+<dl>
+<dt>BioJava (current version)</dt>
+<dd>Available from <a href="http://www.biojava.org/">BioJava.org</a>.  Until
+the BioJava 1.4 release is ready, it is recommended that you use a
+<a href="http://www.derkholm.net/autobuild/">nightly build</a>.
+</dd>
+
+<dt>BioJava bytecode library</dt>
+<dd>Binaries can be downloaded from <a href="http://www.biojava.org/">BioJava.org</a>.
+Also in BioJava CVS.</dd>
+
+<dt>servlet.jar</dt>
+<dd>The Java Servlet 2.3 API files.  This should be included with your Servlet
+container distribution.  These are only needed for compiling Dazzle: when you
+deploy the servlet, it should automatically pick up servlet API classes from
+the servlet container.
+</dd>
+</dl>
+
+<p>
+The current Dazzle sourcecode is available from the
+<a href="http://www.derkholm.net/svn/repos/dazzle/">BioJava Subversion repository</a>. 
+Follow the
+instructions there to connect to the server and check out the <code>dazzle</code>
+module.  You will need to copy all the libraries above into the dazzle directory,
+then use the supplied ANT build-script to compile the code.
+</p>
+
+<h2>Configuring datasources</h2>
+
+<p>
+Dazzle relies on small datasource plugins to supply sequence and feature
+data, and also to customize the DAS messages.  Each Dazzle installation includes
+one or more data sources.  These are defined in an XML configuration file,
+dazzlecfg.xml.  A typical example is shown below:
+</p>
+
+<pre>
+&lt;?xml version="1.0" ?&gt;
+
+&lt;!-- Sample Dazzle configuration file --&gt;
+
+&lt;dazzle xmlns="http://www.biojava.org/2000/dazzle"&gt;
+  &lt;datasource id="test" jclass="org.biojava.servlets.dazzle.datasource.EmblDataSource"&gt;
+    &lt;string name="name" value="Test seqs" /&gt;
+    &lt;string name="description" value="Evalutation sequences for promoter-finding software" /&gt;
+    &lt;string name="version" value="1.0" /&gt;
+    &lt;string name="fileName" value="test.embl" /&gt;
+
+    &lt;string name="stylesheet" value="test.style" /&gt;
+  &lt;/datasource&gt;
+
+  &lt;datasource id="tss" jclass="org.biojava.servlets.dazzle.datasource.GFFAnnotationSource"&gt;
+    &lt;string name="name" value="TSS" /&gt;
+    &lt;string name="description" value="Transcription start sites for fickett set" /&gt;
+    &lt;string name="version" value="1.0" /&gt;
+    &lt;string name="fileName" value="fickett-tss.gff" /&gt;
+    &lt;boolean name="dotVersions" value="true" /&gt;
+    &lt;string name="mapMaster" value="http://my-server:8080/das/test/" /&gt;
+
+    &lt;string name="stylesheet" value="tss.style" /&gt;
+  &lt;/datasource&gt;
+&lt;/dazzle&gt;
+
+</pre>
+
+<p>
+Each <code>datasource</code> element has two required attributes: a unique
+ID, and the fully-qualified Java class-name of the plugin.  The <code>datasource</code>
+element can contain any number of property elements, which set some property of
+the plugin.  Property elements are always named after the data-type of the property
+to be set, and have two attributes: name and value.  The set of properties recognized
+by a given plugin should be listed in the plugin documentation. (NOTE: The format
+of the property elements may change in a future release to match the SOAP encoding
+rules).
+</p>
+
+<p>
+Some properties are commonly recognized by many plugins:
+</p>
+
+<ul>
+<li>name</li>
+<li>description</li>
+<li>version - the version of the database being served</li>
+<li>stylesheet - a path to a DAS stylesheet, relative to the top level of the webapp</li>
+<li>mapMaster</li>
+</ul>
+
+<p>
+The <code>mapMaster</code> attribute is recognized by all annotation
+server plugins.  It should be set to a URL pointing to the reference server
+whose sequences are annotated by this data source.  Note that this must
+always be an absolute URL, even if the reference datasource is contained
+within the same Dazzle webapp.
+</p>
+
+<h2>The EMBL-file plugin</h2>
+
+<p>
+The EMBL-file plugin provides a DAS reference datasource
+backed by a standard EMBL-format flatfile.  It is included
+in the basic Dazzle package, with classname
+<code>org.biojava.servlets.dazzle.datasource.EmblDataSource</code>.
+</p>
+
+<p>
+Properties of the EMBL plugin:
+</p>
+
+<table border="1">
+<tr>
+  <th>Name</th>
+  <th>Datatype</th>
+  <th>Description</th>
+</tr>
+<tr>
+  <td>name</td>
+  <td>string</td>
+  <td>The display name of the datasource</td>
+</tr>
+<tr>
+  <td>description</td>
+  <td>string</td>
+  <td>A textual description of the datasource</td>
+</tr>
+<tr>
+  <td>version</td>
+  <td>string</td>
+  <td>The version of the database being served (note that individual sequences are served with version numbers taken from the EMBL file</td>
+</tr>
+<tr>
+  <td>stylesheet</td>
+  <td>string</td>
+  <td>Filename of a DAS stylesheet to associate with this datasource</td>
+</tr>
+<tr>
+  <td>fileName</td>
+  <td>string</td>
+  <td>Name of an EMBL file which is read at startup.</td>
+</tr>
+</table>
+
+<h2>The GFF plugin</h2>
+
+<p>
+The GFF plugin is a very lightweight annotation datasource, backed
+by a GFF version 2 file.  It is very easy to set up, but has some
+limitations (no complex features, no links out to external data).
+A more sophisticated `general purpose' annotation datasource should
+be released soon.
+</p>
+
+<p>
+The GFF plugin has class name
+<code>org.biojava.servlets.dazzle.datasource.GFFAnnotationSource</code>.
+The following properties are available:
+</p>
+
+<table border="1">
+<tr>
+  <th>Name</th>
+  <th>Datatype</th>
+  <th>Description</th>
+</tr>
+<tr>
+  <td>name</td>
+  <td>string</td>
+  <td>The display name of the datasource</td>
+</tr>
+<tr>
+  <td>description</td>
+  <td>string</td>
+  <td>A textual description of the datasource</td>
+</tr>
+<tr>
+  <td>version</td>
+  <td>string</td>
+  <td>The version of the database being served.  Individual sequences are served with version numbers copies from the reference server.</td>
+</tr>
+<tr>
+  <td>stylesheet</td>
+  <td>string</td>
+  <td>Filename of a DAS stylesheet to associate with this datasource</td>
+</tr>
+<tr>
+  <td>mapMaster</td>
+  <td>string</td>
+  <td>URL of a DAS reference server.</td>
+</tr>
+<tr>
+  <td>fileName</td>
+  <td>string</td>
+  <td>Name of a GFF file which is read at startup.</td>
+</tr>
+<tr>
+  <td>dotVersions</td>
+  <td>boolean</td>
+  <td>Interpret sequence names contains a '.' character as <em>id</em>.<em>version</em>.</td>
+</tr>
+</table>
+
+<h2>Packaging and deployment</h2>
+
+<p>
+Once you are happy with your configuration file, and you've added any extra
+resource files that are needed, you should package the webapp as a WAR file.
+WAR files are just normal Java ARchives (JAR files) which contain a WEB-INF
+directory and a web.xml file (as show in the directory tree, above).  To
+create this file, change into the directory where you have been building your
+webapp, and type:
+</p>
+
+<blockquote>
+jar cf ../das.war *
+</blockquote>
+
+<p>
+By convention, webapps containing DAS servers are called das.war, but this
+isn't strictly necessary.
+</p>
+
+<p>
+Details of deploying webapps vary between containers.  If you are using
+Tomcat, simply copy the <code>das.war</code> file into the ${TOMCAT_HOME}/webapps/
+directory, then re-start the server.  Note that Tomcat creates temporary directories
+for each deployed webapp (e.g. a <code>das/</code> directory corresponding to das.war).
+If you are replacing an existing webapp with a newer version, you should shut down
+the server then delete the temporary directory before deploying the new webapp.
+</p>
+
+<p>
+When the webapp is deployed, you can test it with your favourite DAS browser.
+You can also try visiting the root page (for instance, http://my-server:8080/das/) using
+a web browser -- you should see a welcome page listing the available data sources.  Note
+that the welcome page can be customized by editing the <code>welcome.html</code>
+file in your webapp.
+</p>
+
+</body>
+</html>

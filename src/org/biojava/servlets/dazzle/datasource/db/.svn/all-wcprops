@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/1764/dazzle/trunk/src/org/biojava/servlets/dazzle/datasource/db
+END
+GFFFeatureCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/1718/dazzle/trunk/src/org/biojava/servlets/dazzle/datasource/db/GFFFeatureCache.java
+END
+MysqlFeatureCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/1764/dazzle/trunk/src/org/biojava/servlets/dazzle/datasource/db/MysqlFeatureCache.java
+END

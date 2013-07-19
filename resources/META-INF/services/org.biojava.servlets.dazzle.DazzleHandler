@@ -1,0 +1,10 @@
+org.biojava.servlets.dazzle.EntryPointsHandler
+org.biojava.servlets.dazzle.SequenceHandler
+org.biojava.servlets.dazzle.StylesheetHandler
+org.biojava.servlets.dazzle.LinkHandler
+org.biojava.servlets.dazzle.AlignmentHandler
+org.biojava.servlets.dazzle.StructureHandler
+org.biojava.servlets.dazzle.FeaturesHandler
+org.biojava.servlets.dazzle.GFFFeaturesHandler
+org.biojava.servlets.dazzle.HydraGFFFeaturesHandler
+org.biojava.servlets.dazzle.InteractionHandler

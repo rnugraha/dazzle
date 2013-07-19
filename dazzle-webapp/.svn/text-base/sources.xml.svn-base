@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?xml-stylesheet type="text/xsl" href="das.xsl"?>
+<SOURCES>
+  <SOURCE 	uri="MyFirstDasSource" 
+  		title="The title of the DAS source" 
+		doc_href="http://www.myhomepage.org" 
+		description="Test set for promoter-finding software">
+  <MAINTAINER	email="you@myhomepage.org" />
+
+  <VERSION 	uri="latest" created="2007-12-25">
+
+   <COORDINATES uri="http://www.dasregistry.org/dasregistry/coordsys/CS_DS6" 
+   		source="Protein Sequence" 
+		authority="UniProt" 
+		test_range="P00280"/>   
+
+   <CAPABILITY type="das1:sequence" query_uri="http://www.ebi.ac.uk/das-srv/uniprot/das/aristotle/sequence" />
+   <CAPABILITY type="das1:features" query_uri="http://www.ebi.ac.uk/das-srv/uniprot/das/aristotle/features" />
+   <CAPABILITY type="das1:entry_points" query_uri="http://www.ebi.ac.uk/das-srv/uniprot/das/aristotle/entry_points" />
+
+   <CAPABILITY type="das1:stylesheet" query_uri="http://www.ebi.ac.uk/das-srv/uniprot/das/aristotle/stylesheet" />
+      
+   <PROP name="label" value="BioSapiens" />     
+  </VERSION>
+  </SOURCE>
+</SOURCES>

@@ -1,0 +1,56 @@
+<!--
+ 
+  Example configuration file for the Dazzle servlet.
+
+  Please check all paths and URIs before deploying this on
+  your own server.
+
+  Information of configuring and deploying Dazzle can
+  be found at:
+
+      http://www.biojava.org/dazzle/
+
+  Alternatively, questions can be mailed to:
+
+      Thomas Down <td2@sanger.ac.uk>
+
+  -->
+
+<dazzle xmlns="http://www.biojava.org/2000/dazzle">
+  <!-- Test reference server -->
+
+  <datasource id="test" jclass="org.biojava.servlets.dazzle.datasource.EmblDataSource">
+    <string name="name" value="Test seqs" />
+    <string name="description" value="Test set for promoter-finding software" />
+    <string name="version" value="default" />
+    <string name="fileName" value="/test.embl" />
+
+    <string name="stylesheet" value="test.style" />
+  </datasource>
+
+  <!-- Test annotation server.  Note that the mapMaster property must
+       be changed to match your reference server -->
+
+  <datasource id="tss" jclass="org.biojava.servlets.dazzle.datasource.GFFAnnotationSource">
+    <string name="name" value="TSS" />
+    <string name="description" value="Transcription start sites" />
+    <string name="version" value="default" />
+    <string name="fileName" value="/fickett-tss.gff" />
+    <boolean name="dotVersions" value="true" />
+    <string name="mapMaster" value="http://localhost:8080/das/test/" />
+
+    <string name="stylesheet" value="tss.style" />
+  </datasource>
+  
+  
+   <!-- Another test reference and annotation server. 
+   		It reads all info from an example uniprot file.
+   
+    -->
+  <datasource id="uniprot_snps" jclass="org.biojava.servlets.dazzle.datasource.UniProtDataSource">
+    <string name="name" value="uniprot_snps" />
+    <string name="description" value="some snps on a uniprot sequence" />
+    <string name="version" value="default" />
+    <string name="fileName" value="/example.up" />
+  </datasource>
+</dazzle>
