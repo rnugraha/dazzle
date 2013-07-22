@@ -1,9 +1,6 @@
-package org.dazzle;
+package org.biojava.servlets.dazzle.datasource;
 
 import org.biojava.servlets.dazzle.Segment;
-import org.biojava.servlets.dazzle.datasource.AbstractGFFFeatureSource;
-import org.biojava.servlets.dazzle.datasource.DataSourceException;
-import org.biojava.servlets.dazzle.datasource.GFFFeature;
 
 /**
  * Created with IntelliJ IDEA.
@@ -16,9 +13,8 @@ public class MyPlugin extends AbstractGFFFeatureSource {
 
     @Override
     public GFFFeature[] getFeatures(Segment seg, String[] types) throws DataSourceException {
-
+        System.out.println("got a features request for " + seg);
         return new GFFFeature[0];
-
     }
 
 

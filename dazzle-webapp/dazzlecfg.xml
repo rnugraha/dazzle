@@ -18,7 +18,7 @@
 
 <dazzle xmlns="http://www.biojava.org/2000/dazzle">
 
-    <datasource id="myplugin" jclass="org.dazzle.MyPlugin">
+    <datasource id="myplugin" jclass="org.biojava.servlets.dazzle.datasource.MyPlugin">
         <string name="name" value="My 1st Plugin" />
         <string name="description" value="a demo for how to write a Dazzle plugin" />
         <string name="version" value="1.0" />
@@ -31,7 +31,6 @@
     <string name="description" value="Test set for promoter-finding software" />
     <string name="version" value="default" />
     <string name="fileName" value="/test.embl" />
-
     <string name="stylesheet" value="test.style" />
   </datasource>
 
@@ -45,12 +44,10 @@
     <string name="fileName" value="/fickett-tss.gff" />
     <boolean name="dotVersions" value="true" />
     <string name="mapMaster" value="http://localhost:8080/das/test/" />
-
     <string name="stylesheet" value="tss.style" />
   </datasource>
   
-  
-   <!-- Another test reference and annotation server. 
+   <!-- Another test reference and annotation server.
    		It reads all info from an example uniprot file.
    
     -->
